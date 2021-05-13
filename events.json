@@ -1,0 +1,463 @@
+[
+  {
+    "id": 1,
+    "category": "Core Tyria",
+    "name": "Day and night",
+    "segments": [
+      { "id": 1, "name": "Day", "link": "Day and night", "bg": [255,255,255] },
+      { "id": 2, "name": "Dusk", "link": "Day and night", "bg": [255,255,255] },
+      { "id": 3, "name": "Night", "link": "Day and night", "bg": [122,134,171] },
+      { "id": 4, "name": "Dawn", "link": "Day and night", "bg": [122,134,171] }
+    ],
+    "sequences": {
+      "partial": [{"r":3,"d":25},{"r":4,"d":5}],
+      "pattern": [{"r":1,"d":70},{"r":2,"d":5},{"r":3,"d":40},{"r":4,"d":5}]
+    }
+  },
+
+  {
+    "id": 2,
+    "category": "Core Tyria",
+    "name": "World bosses",
+    "link": "World boss",
+    "segments": [
+      { "id": 1, "name": "Admiral Taidha Covington", "link": "Kill Admiral Taidha Covington", "chatlink": "[&BKgBAAA=]", "bg": [ 66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+        "rewards": {
+          "random_items": [19357,19361],
+          "achievements": [343],
+          "items_for_achievements": [{"a": 2389, "i": 72824},{"a": 2409, "i": 75149},{"a": 2479, "i": 72207},{"a": 2420, "i": 77094},{"a": 2433, "i": 72519},{"a": 2242, "i": 75357},{"a": 2374, "i": 73351},{"a": 2280, "i": 75485},{"a": 2943, "i": 78157}]
+        }
+      },
+      { "id": 2, "name": "Claw of Jormag", "link": "Defeat the Claw of Jormag", "chatlink": "[&BHoCAAA=]", "bg": [ 66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+        "rewards": {
+          "random_items": [45191,31075,31072],
+          "achievements": [220, 2777],
+          "items_for_achievements": [{"a": 1744, "i": 67276},{"a": 1744, "i": 31065},{"a": 4233, "i": 87827},{"a": 2524, "i": 73135},{"a": 2468, "i": 74587},{"a": 2478, "i": 74176},{"a": 2180, "i": 74766},{"a": 2502, "i": 71072},{"a": 2536, "i": 76714},{"a": 2268, "i": 72122}]
+        }
+      },
+      { "id": 3, "name": "Fire Elemental", "link": "Destroy the fire elemental created from chaotic energy fusing with the C.L.E.A.N. 5000's energy core", "chatlink": "[&BEcAAAA=]", "bg": [138,234,244], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+        "rewards": {
+          "items_for_achievements": [{"a": 4233, "i": 88046},{"a": 2336, "i": 76779},{"a": 2528, "i": 75398},{"a": 2180, "i": 75082},{"a": 2556, "i": 71121},{"a": 2502, "i": 74151},{"a": 2536, "i": 76086},{"a": 2374, "i": 75154},{"a": 2433, "i": 73627}]
+        }
+      },
+      { "id": 4, "name": "Golem Mark II", "link": "Defeat the Inquest's golem Mark II", "chatlink": "[&BNQCAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+        "rewards": {
+          "items_for_achievements": [{"a": 4205, "i": 87733},{"a": 4233, "i": 87646},{"a": 4692, "i": 90266},{"a": 1711, "i": 39472},{"a": 2258, "i": 70944},{"a": 5229, "i": 92982},{"a": 2480, "i": 75970},{"a": 2409, "i": 74511},{"a": 2468, "i": 75432},{"a": 2556, "i": 75483},{"a": 2502, "i": 74282},{"a": 2268, "i": 70965},{"a": 2943, "i": 78570}]
+        }
+      },
+      { "id": 5, "name": "Great Jungle Wurm", "link": "Defeat the great jungle wurm", "chatlink": "[&BEEFAAA=]", "bg": [138,234,244], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+        "rewards": {
+          "random_items": [19359,19355],
+          "achievements": [338],
+          "items_for_achievements": [{"a": 4233, "i": 87861},{"a": 2450, "i": 70861},{"a": 2528, "i": 73703},{"a": 2374, "i": 71299}]
+        }
+      },
+      { "id": 6, "name": "Megadestroyer", "link": "Kill the megadestroyer before it blows everyone up", "chatlink": "[&BM0CAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+        "rewards": {
+          "items_for_achievements": [{"a": 2478, "i": 71517},{"a": 2180, "i": 74706},{"a": 2433, "i": 71653},{"a": 2556, "i": 71106},{"a": 2536, "i": 76593}]
+        }
+      },
+      { "id": 7, "name": "Modniir Ulgoth", "link": "Defeat Ulgoth the Modniir and his minions", "chatlink": "[&BLAAAAA=]", "bg": [ 66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+        "rewards": {
+          "random_items": [19366],
+          "items_for_achievements": [{"a": 2389, "i": 75716},{"a": 2420, "i": 72104},{"a": 2374, "i": 74239},{"a": 2280, "i": 73659},{"a": 2943, "i": 78684},{"a": 1711, "i": 39473},{"a": 2584, "i": 76023},{"a": 2375, "i": 71279},{"a": 5196, "i": 93270}]
+        }
+      },
+      { "id": 8, "name": "Shadow Behemoth", "link": "Defeat the shadow behemoth", "chatlink": "[&BPcAAAA=]", "bg": [138,234,244], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+        "rewards": {
+          "random_items": [19360,31051],
+          "achievements": [337],
+          "items_for_achievements": [{"a": 4233, "i": 87776},{"a": 4692, "i": 90577},{"a": 5003, "i": 92173},{"a": 2336, "i": 74723},{"a": 2183, "i": 74259},{"a": 2550, "i": 72479},{"a": 2253, "i": 72128},{"a": 2260, "i": 74779},{"a": 2536, "i": 77215},{"a": 2250, "i": 72286},{"a": 2550, "i": 73182}]
+        }
+      },
+      { "id": 9, "name": "Svanir Shaman Chief", "link": "Kill the Svanir shaman chief to break his control over the ice elemental", "chatlink": "[&BMIDAAA=]", "bg": [138,234,244], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+        "rewards": {
+          "achievements": [341],
+          "items_for_achievements": [{"a": 2479, "i": 76538},{"a": 2502, "i": 71942},{"a": 2280, "i": 71950},{"a": 2441, "i": 74404},{"a": 2441, "i": 73232},{"a": 2393, "i": 77047},{"a": 1711, "i": 39469}]
+        }
+      },
+      { "id": 10, "name": "The Shatterer", "link": "Slay the Shatterer", "chatlink": "[&BE4DAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/BEBC5CBBD70DB678FA3E329D3BE59DE27CECCA14/1341585.png",
+        "rewards": {
+          "achievements": [340,2812,2796,2801,2813,2799,2810,2797,2803,2807,2798,2808],
+          "items_for_achievements": [{"a": 4233, "i": 87901},{"a": 2480, "i": 73647},{"a": 2187, "i": 73598},{"a": 2478, "i": 76429},{"a": 2180, "i": 75146},{"a": 2556, "i": 71872},{"a": 2536, "i": 71404},{"a": 2468, "i": 72322},{"a": 2268, "i": 74429},{"a": 2943, "i": 78683},{"a": 1711, "i": 39467},{"a": 2585, "i": 73674}]
+        }
+      }
+    ],
+    "sequences": {
+      "partial": [],
+      "pattern": [{"r":1,"d":15},{"r":9,"d":15},{"r":6,"d":15},{"r":3,"d":15},{"r":10,"d":15},{"r":5,"d":15},{"r":7,"d":15},{"r":8,"d":15},{"r":4,"d":15},{"r":9,"d":15},{"r":2,"d":15},{"r":3,"d":15},{"r":1,"d":15},{"r":5,"d":15},{"r":6,"d":15},{"r":8,"d":15},{"r":10,"d":15},{"r":9,"d":15},{"r":7,"d":15},{"r":3,"d":15},{"r":4,"d":15},{"r":5,"d":15},{"r":2,"d":15},{"r":8,"d":15}]
+    }
+  },
+
+  {
+    "id": 3,
+    "category": "Core Tyria",
+    "name": "Hard world bosses",
+    "link": "World boss",
+    "segments": [
+      { "id": 0, "name": "", "bg": [138,234,244] },
+      { "id": 1, "name": "Evolved Jungle Wurm", "link": "Triple Trouble", "chatlink": "[&BKoBAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/B197F05D1FB333ABC87EAF09BE0A44C50B4AEC3C/710688.png",
+        "rewards": {
+          "random_items": [49670,67213,71413,49836,49828,49831,49724],
+          "achievements": [2474,2620,2169,1333,1338,1335,1341,1339,1340,1336,1337,1332,1459,1334],
+          "items_for_achievements": [{"a": 2524, "i": 75371},{"a": 2524, "i": 73857},{"a": 2524, "i": 76571},{"a": 2468, "i": 71124}]
+        }
+      },
+      { "id": 2, "name": "Karka Queen", "link": "Defeat the Karka Queen threatening the settlements", "chatlink": "[&BNUGAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+        "rewards": {
+          "achievements": [2202],
+          "items_for_achievements": [{"a": 2313, "i": 73047},{"a": 2524, "i": 75767},{"a": 2253, "i": 72434},{"a": 2177, "i": 75859},{"a": 2428, "i": 73965},{"a": 2536, "i": 73362},{"a": 2374, "i": 70496},{"a": 2268, "i": 76589},{"a": 2250, "i": 70803},{"a": 2302, "i": 75404}]
+        }
+      },
+      { "id": 3, "name": "Tequatl the Sunless", "link": "Defeat Tequatl the Sunless", "chatlink": "[&BNABAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/57490B059669DA64517C99BCA5A359082696DEC9/638120.png",
+        "rewards": {
+          "random_items": [47846,47870,71413,47872,47845,19363,19358,47874,47875,47873,47871],
+          "achievements": [342,904,905,906,908,903,901,902,900,909,907],
+          "items_for_achievements": [{"a": 4233, "i": 87633},{"a": 4998, "i": 92148},{"a": 2409, "i": 71231},{"a": 2524, "i": 74828},{"a": 2468, "i": 75651},{"a": 2183, "i": 72402},{"a": 2478, "i": 76734},{"a": 2528, "i": 76448},{"a": 2180, "i": 73101},{"a": 2253, "i": 75968},{"a": 2556, "i": 73715},{"a": 2502, "i": 73039},{"a": 2383, "i": 76496},{"a": 2536, "i": 73840},{"a": 2268, "i": 76677},{"a": 1754, "i": 67194}]
+        }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":3,"d":30},{"r":0,"d":30},{"r":1,"d":30},{"r":0,"d":30},{"r":2,"d":30},{"r":0,"d":30},{"r":3,
+        "d":30},{"r":0,"d":30},{"r":1,"d":30},{"r":0,"d":90},{"r":2,"d":30},{"r":0,"d":30},{"r":3,"d":30},{"r":0,"d":30},{"r":1,"d":30},{"r":0,"d":120},{"r":2,"d":30},{"r":0,"d":30},{"r":3,"d":30},{"r":0,"d":30},{"r":1,"d":30},{"r":0,"d":120},{"r":2,"d":30},{"r":0,"d":30},{"r":3,"d":30},{"r":0,"d":30},{"r":1,"d":30},{"r":0,"d":30},{"r":2,"d":30},{"r":0,"d":30},{"r":3,"d":30},{"r":0,"d":30},{"r":1,"d":30},{"r":0,"d":150},{"r":2,"d":30},{"r":0,"d":30},{"r":3,"d":30},{"r":0,"d":30},{"r":1,"d":30}],
+      "pattern": []
+    }
+  },
+
+  {
+    "id": 4,
+    "category": "Core Tyria",
+    "name": "PvP Tournaments",
+    "link": "Automated Tournaments",
+    "segments": [
+      { "id": 0, "name": "", "bg": [138,234,244] },
+      { "id": 1, "name": "Automated Tournament: Balthazar's Brawl", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 2, "name": "Automated Tournament: Grenth's Game", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 3, "name": "Automated Tournament: Melandru's Matchup", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 4, "name": "Automated Tournament: Lyssa's Legions", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" }
+    ],
+    "sequences": {
+      "partial": [],
+      "pattern": [{"r":1,"d":60},{"r":0,"d":120},{"r":2,"d":60},{"r":0,"d":120},{"r":3,"d":60},{"r":0,"d":120},{"r":4,"d":60},{"r":0,"d":120}]
+    }
+  },
+
+  {
+    "id": 5,
+    "category": "Living World Season 2",
+    "name": "Dry Top",
+    "segments": [
+      { "id": 1, "name": "Crash Site", "link": "Crash Site (meta event)", "bg": [251,227,132], "icon": "https://render.guildwars2.com/file/2B38D85D12685D43E6B942AD43FFB667F73DA406/1302677.png" },
+      { "id": 2, "name": "Sandstorm", "link": "Sandstorm!", "chatlink": "[&BIAHAAA=]", "bg": [215,185, 66], "icon": "https://render.guildwars2.com/file/2B38D85D12685D43E6B942AD43FFB667F73DA406/1302677.png" }
+    ],
+    "sequences": {
+      "partial": [],
+      "pattern": [{"r":1,"d":40},{"r":2,"d":20}]
+    }
+  },
+
+  {
+    "id": 6,
+    "category": "Heart of Thorns",
+    "name": "Verdant Brink",
+    "segments": [
+      { "id": 1, "name": "Day: Securing Verdant Brink", "link": "Securing Verdant Brink", "bg": [231,251,132], "icon": "https://render.guildwars2.com/file/FB0BA9033D37C93346949B5EF001720D27CD07C2/1228233.png",
+        "rewards": { "achievements": [2281] }
+      },
+      { "id": 2, "name": "Night: Night and the Enemy", "link": "Night and the Enemy", "bg": [211,234, 98], "icon": "https://render.guildwars2.com/file/FB0BA9033D37C93346949B5EF001720D27CD07C2/1228233.png",
+        "rewards": { "achievements": [2165] }
+      },
+      { "id": 3, "name": "Night Bosses", "link": "Night and the Enemy", "chatlink": "[&BAgIAAA=]", "bg": [190,215, 66], "icon": "https://render.guildwars2.com/file/FB0BA9033D37C93346949B5EF001720D27CD07C2/1228233.png",
+        "rewards": { "items": [78171], "random_items": [75055], "achievements": [2566,2369,2333,2423,2211,2294] }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":2,"d":10},{"r":3,"d":20}],
+      "pattern": [{"r":1,"d":75},{"r":2,"d":25},{"r":3,"d":20}]
+    }
+  },
+
+  {
+    "id": 7,
+    "category": "Heart of Thorns",
+    "name": "Auric Basin",
+    "segments": [
+      { "id": 1, "name": "Pylons", "link": "Defending Tarir", "chatlink": "[&BN0HAAA=]", "bg": [231,251,132], "icon": "https://render.guildwars2.com/file/7D803B05D3F932974ACA08F8725A28A491FEF0E2/1228221.png",
+        "rewards": { "achievements": [2427] }
+      },
+      { "id": 2, "name": "Challenges", "link": "Battle in Tarir (map meta event)", "bg": [211,234, 98], "icon": "https://render.guildwars2.com/file/7D803B05D3F932974ACA08F8725A28A491FEF0E2/1228221.png",
+        "rewards": { "achievements": [2555,2634] }
+      },
+      { "id": 3, "name": "Octovine", "link": "Battle in Tarir (map meta event)", "chatlink": "[&BAIIAAA=]", "bg": [190,215, 66], "icon": "https://render.guildwars2.com/file/7D803B05D3F932974ACA08F8725A28A491FEF0E2/1228221.png",
+        "rewards": { "items": [78650], "random_items": [46746,74715,76063,72191,72119,73843], "achievements": [2594,2417,2342,2618] }
+      },
+      { "id": 4, "name": "Reset", "link": "A Moment's Rest", "bg": [211,234, 98], "icon": "https://render.guildwars2.com/file/7D803B05D3F932974ACA08F8725A28A491FEF0E2/1228221.png" }
+    ],
+    "sequences": {
+      "partial": [{"r":1,"d":45},{"r":2,"d":15},{"r":3,"d":20},{"r":4,"d":10}],
+      "pattern": [{"r":1,"d":75},{"r":2,"d":15},{"r":3,"d":20},{"r":4,"d":10}]
+    }
+  },
+
+  {
+    "id": 8,
+    "category": "Heart of Thorns",
+    "name": "Tangled Depths",
+    "segments": [
+      { "id": 1, "name": "Help the Outposts", "link": "Advancing Across Tangled Roots", "bg": [231,251,132], "icon": "https://render.guildwars2.com/file/A45192752E983E0AB026A8539BE601E668019840/1228232.png" },
+      { "id": 2, "name": "Prep", "link": "Against the Chak Gerent", "bg": [211,234, 98], "icon":  "https://render.guildwars2.com/file/A45192752E983E0AB026A8539BE601E668019840/1228232.png" },
+      { "id": 3, "name": "Chak Gerent", "link": "Against the Chak Gerent", "chatlink": "[&BPUHAAA=]", "bg": [190,215, 66], "icon":  "https://render.guildwars2.com/file/A45192752E983E0AB026A8539BE601E668019840/1228232.png",
+        "rewards": { "items": [78332], "random_items": [73663,75615,72203,72021], "items_for_achievements": [{"a": 2643, "i": 76500},{"a": 2433, "i": 70810}] }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":1,"d":25},{"r":2,"d":5},{"r":3,"d":20}],
+      "pattern": [{"r":1,"d":95},{"r":2,"d":5},{"r":3,"d":20}]
+    }
+  },
+
+  {
+    "id": 9,
+    "category": "Heart of Thorns",
+    "name": "Dragon's Stand",
+    "segments": [
+      { "id": 1, "name": "Start advancing on the Blighting Towers", "link": "Advancing on the Blighting Towers", "chatlink": "[&BBAIAAA=]", "bg": [190,215, 66], "icon": "https://render.guildwars2.com/file/A45192752E983E0AB026A8539BE601E668019840/1228232.png",
+        "rewards": {
+          "items": [78617],
+          "random_items": [76926,75983,71630,70477,75495,76528,73679],
+          "items_for_achievements": [{"a": 2951,"i": 78132},{"a": 2268,"i": 74692},{"a": 2643,"i": 76884},{"a": 2628,"i": 70818},{"a": 2572,"i": 72916},{"a": 2569,"i": 75027},{"a": 2404,"i": 74138},{"a": 2545,"i": 71442},{"a": 2300,"i": 75673},{"a": 2629,"i": 74663},{"a": 2332,"i": 71967},{"a": 2359,"i": 70653},{"a": 2641,"i": 71976},{"a": 2454,"i": 71761},{"a": 2290,"i": 74165},{"a": 2192,"i": 71907},{"a": 2325,"i": 72399},{"a": 2282,"i": 74208},{"a": 2609,"i": 73760},{"a": 2235,"i": 72855},{"a": 2508,"i": 76605}]
+        }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":1,"d":90}],
+      "pattern": [{"r":1,"d":120}]
+    }
+  },
+
+  {
+    "id": 10,
+    "category": "Living World Season 3",
+    "name": "Lake Doric",
+    "segments": [
+      { "id": 1, "name": "Saidra's Haven", "link": "White Mantle Control: Saidra's Haven", "chatlink": "[&BK0JAAA=]", "bg": [251,132,152], "icon": "https://render.guildwars2.com/file/ACA2511FEFBDCA54DB256CF8F50AE7EA80231FED/1635142.png" },
+      { "id": 2, "name": "New Loamhurst", "link": "White Mantle Control: New Loamhurst", "chatlink": "[&BLQJAAA=]", "bg": [234, 98,121], "icon": "https://render.guildwars2.com/file/ACA2511FEFBDCA54DB256CF8F50AE7EA80231FED/1635142.png" },
+      { "id": 3, "name": "Noran's Homestead", "link": "White Mantle Control: Noran's Homestead", "chatlink": "[&BK8JAAA=]", "bg": [215, 66, 91], "icon": "https://render.guildwars2.com/file/ACA2511FEFBDCA54DB256CF8F50AE7EA80231FED/1635142.png" }
+    ],
+    "sequences": {
+      "partial": [{"r":2,"d":30}],
+      "pattern": [{"r":3,"d":30},{"r":1,"d":45},{"r":2,"d":45}]
+    }
+  },
+
+  {
+    "id": 11,
+    "category": "Living World Season 3",
+    "name": "Ley-Line Anomaly",
+    "link": "Legendary Ley-Line Anomaly",
+    "segments": [
+      { "id": 0, "name": "", "bg": [251,132,152] },
+      { "id": 1, "name": "Timberline Falls", "link": "Defeat the Ley-Line Anomaly to disperse its destructive energy before it overloads", "chatlink": "[&BEwCAAA=]", "bg": [215, 66, 91], "icon": "https://render.guildwars2.com/file/2F030A07047DF63DE8F5DD3E5B7F0106FF4EB1ED/1769803.png",
+        "rewards": { "items": [19976,79047], "achievements": [3029,3036,3037,3026], "items_for_achievements": [{"a": 4205, "i": 87678}] }
+      },
+      { "id": 2, "name": "Iron Marches", "link": "Defeat the Ley-Line Anomaly to disperse its destructive energy before it overloads", "chatlink": "[&BOYBAAA=]", "bg": [215, 66, 91], "icon":  "https://render.guildwars2.com/file/2F030A07047DF63DE8F5DD3E5B7F0106FF4EB1ED/1769803.png",
+        "rewards": { "items": [19976,79047], "achievements": [3029,3036,3037,3026], "items_for_achievements": [{"a": 4205, "i": 87678}] }
+      },
+      { "id": 3, "name": "Gendarran Fields", "link": "Defeat the Ley-Line Anomaly to disperse its destructive energy before it overloads", "chatlink": "[&BO0AAAA=]", "bg": [215, 66, 91], "icon":  "https://render.guildwars2.com/file/2F030A07047DF63DE8F5DD3E5B7F0106FF4EB1ED/1769803.png",
+        "rewards": { "items": [19976,79047], "achievements": [3029,3036,3037,3026], "items_for_achievements": [{"a": 4205, "i": 87678}] }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":0,"d":20},{"r":1,"d":20},{"r":0,"d":100},{"r":2,"d":20},{"r":0,"d":100},{"r":3,"d":20}],
+      "pattern": [{"r":0,"d":100},{"r":1,"d":20},{"r":0,"d":100},{"r":2,"d":20},{"r":0,"d":100},{"r":3,"d":20}]
+    }
+  },
+
+  {
+    "id": 12,
+    "category": "Path of Fire",
+    "name": "Crystal Oasis",
+    "segments": [
+      { "id": 0, "name": "", "bg": [251,199,132] },
+      { "id": 1, "name": "Rounds 1 to 3", "link": "Casino Blitz", "chatlink": "[&BLsKAAA=]", "bg": [234,175, 98], "icon": "https://render.guildwars2.com/file/55D703EF65C8317C36A837A7E162BE907492AE53/1769811.png" },
+      { "id": 2, "name": "Choya Pinata", "link": "Casino Blitz", "chatlink": "[&BLsKAAA=]", "bg": [215,150, 66], "icon": "https://render.guildwars2.com/file/55D703EF65C8317C36A837A7E162BE907492AE53/1769811.png",
+        "rewards": { "items": [90958], "random_items": [84730,85996,86987,85137] }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":0,"d":5},{"r":1,"d":16},{"r":2,"d":9}],
+      "pattern": [{"r":0,"d":95},{"r":1,"d":16},{"r":2,"d":9}]
+    }
+  },
+
+  {
+    "id": 13,
+    "category": "Path of Fire",
+    "name": "Desert Highlands",
+    "segments": [
+      { "id": 0, "name": "", "bg": [251,199,132] },
+      { "id": 1, "name": "Buried Treasure", "link": "The Search for Buried Treasure", "chatlink": "[&BGsKAAA=]", "bg": [234,175, 98], "icon": "https://render.guildwars2.com/file/6859002CFD48056E19606FA2C99759B857155F67/1769810.png",
+        "rewards": { "items": [83439] }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":0,"d":60},{"r":1,"d":20}],
+      "pattern": [{"r":0,"d":100},{"r":1,"d":20}]
+    }
+  },
+
+  {
+    "id": 14,
+    "category": "Path of Fire",
+    "name": "Elon Riverlands",
+    "segments": [
+      { "id": 0, "name": "", "bg": [251,199,132] },
+      { "id": 1, "name": "The Path to Ascension: Augury Rock", "link": "The Path to Ascension", "chatlink": "[&BFMKAAA=]", "bg": [234,175, 98], "icon": "https://render.guildwars2.com/file/D65580C1D2B45CB14D04CBE17BF470657890BB31/1769813.png" },
+      { "id": 2, "name": "Doppelganger", "link": "The Path to Ascension", "chatlink": "[&BCgKAAA=]", "bg": [215,150, 66], "icon": "https://render.guildwars2.com/file/D65580C1D2B45CB14D04CBE17BF470657890BB31/1769813.png",
+        "rewards": { "items": [91039], "achievements": [3571,3819] }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":2,"d":15}],
+      "pattern": [{"r":0,"d":75},{"r":1,"d":25},{"r":2,"d":20}]
+    }
+  },
+
+  {
+    "id": 15,
+    "category": "Path of Fire",
+    "name": "The Desolation",
+    "segments": [
+      { "id": 0, "name": "", "bg": [251,199,132] },
+      { "id": 1, "name": "Maws of Torment", "chatlink": "[&BKMKAAA=]", "bg": [215,150, 66], "icon": "https://render.guildwars2.com/file/233F0199ED7A77DC1275EA4447013573640F15BE/1769826.png",
+        "rewards": { "items": [84360], "achievements": [3782], "items_for_achievements": [{"a": 3798, "i": 83561}] }
+      },
+      { "id": 2, "name": "Junundu Rising", "chatlink": "[&BMEKAAA=]", "bg": [234,175, 98], "icon": "https://render.guildwars2.com/file/233F0199ED7A77DC1275EA4447013573640F15BE/1769826.png",
+        "rewards": { "items": [84360], "achievements": [3774], "items_for_achievements": [{"a": 3881, "i": 83268}] }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":0,"d":30},{"r":2,"d":20},{"r":0,"d":10}],
+      "pattern": [{"r":1,"d":20},{"r":0,"d":10},{"r":2,"d":20},{"r":0,"d":40},{"r":2,"d":20},{"r":0,"d":10}]
+    }
+  },
+
+  {
+    "id": 16,
+    "category": "Path of Fire",
+    "name": "Domain of Vabbi",
+    "segments": [
+      { "id": 0, "name": "", "bg": [251,199,132] },
+      { "id": 1, "name": "Serpents' Ire", "chatlink": "[&BHQKAAA=]", "bg": [234,175, 98], "icon": "https://render.guildwars2.com/file/02F498E62D99E55B737797B4736870CB1F76DC03/1769812.png",
+        "rewards": { "items": [83035], "items_for_achievements": [{"a": 3798, "i": 84710},{"a": 4108, "i": 87205}] }
+      },
+      { "id": 2, "name": "Forged with Fire", "chatlink": "[&BO0KAAA=]", "bg": [215,150, 66], "icon": "https://render.guildwars2.com/file/02F498E62D99E55B737797B4736870CB1F76DC03/1769812.png",
+        "rewards": { "items": [83035], "achievements": [3809] }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":2,"d":30}],
+      "pattern": [{"r":1,"d":30},{"r":2,"d":30},{"r":0,"d":30},{"r":2,"d":30}]
+    }
+  },
+
+  {
+    "id": 17,
+    "category": "Living World Season 4",
+    "name": "Domain of Istan",
+    "segments": [
+      { "id": 0, "name": "", "bg": [187,119,207] },
+      { "id": 1, "name": "Palawadan", "link": "Palawadan, Jewel of Istan (meta event)", "chatlink": "[&BAkLAAA=]", "bg": [157,65,185], "icon": "https://render.guildwars2.com/file/056C32B97B15F04E2BD6A660FC451946ED086040/1895981.png",
+        "rewards": { "achievements": [3969,3985,4042,3989,3992] }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":1,"d":15}],
+      "pattern": [{"r":0,"d":90},{"r":1,"d":30}]
+    }
+  },
+
+  {
+    "id": 18,
+    "category": "Living World Season 4",
+    "name": "Jahai Bluffs",
+    "segments": [
+      { "id": 0, "name": "", "bg": [187,119,207] },
+      { "id": 1, "name": "Escorts", "link": "Dangerous Prey", "chatlink": "[&BIMLAAA=]", "bg": [175, 96,199], "icon": "https://render.guildwars2.com/file/29C575F5601EC9D003B80BE497077E424FA2F704/2039753.png" },
+      { "id": 2, "name": "Death-Branded Shatterer", "link": "Destroy the Death-Branded Shatterer", "chatlink": "[&BJMLAAA=]", "bg": [157,65,185], "icon": "https://render.guildwars2.com/file/29C575F5601EC9D003B80BE497077E424FA2F704/2039753.png",
+        "rewards": { "achievements": [4413], "items_for_achievements": [{"a": 1711, "i": 39467}] }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":0,"d":60},{"r":1,"d":15},{"r":2,"d":15}],
+      "pattern": [{"r":0,"d":90},{"r":1,"d":15},{"r":2,"d":15}]
+    }
+  },
+
+  {
+    "id": 19,
+    "category": "Living World Season 4",
+    "name": "Thunderhead Peaks",
+    "segments": [
+      { "id": 0, "name": "", "bg": [187,119,207] },
+      { "id": 1, "name": "Thunderhead Keep", "link": "Thunderhead Keep (meta event)", "chatlink": "[&BLsLAAA=]", "bg": [157,65,185], "icon": "https://render.guildwars2.com/file/9F2162C048B268C30F1172C71DB107A45BCEF905/2084714.png",
+        "rewards": { "items": [89828], "achievements": [4507,4595], "items_for_achievements": [{"a": 4764, "i": 91132}] }
+      },
+      { "id": 2, "name": "The Oil Floes", "chatlink": "[&BKYLAAA=]", "bg": [157,65,185], "icon": "https://render.guildwars2.com/file/9F2162C048B268C30F1172C71DB107A45BCEF905/2084714.png",
+        "rewards": { "items": [89692], "achievements": [4516,4532,4522] }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":1,"d":5},{"r":0,"d":40},{"r":2,"d":15}],
+      "pattern": [{"r":0,"d":45},{"r":1,"d":20},{"r":0,"d":40},{"r":2,"d":15}]
+    }
+  },
+
+  {
+    "id": 20,
+    "category": "The Icebrood Saga",
+    "name": "Grothmar Valley",
+    "segments": [
+      { "id": 0, "name": "", "bg": [132,201,251] },
+      { "id": 1, "name": "Effigy", "link": "Ceremony of the Sacred Flame", "chatlink": "[&BA4MAAA=]", "bg": [98,177,234], "icon": "https://render.guildwars2.com/file/4A5AD2C0079107784C04EEEF04CB7911105AB240/2199969.png",
+        "rewards": { "items": [92082], "achievements": [4941,4978] }
+      },
+      { "id": 2, "name": "Doomlore Shrine", "link": "The Haunting of Doomlore Shrine", "chatlink": "[&BA4MAAA=]", "bg": [ 66,153,215], "icon": "https://render.guildwars2.com/file/4A5AD2C0079107784C04EEEF04CB7911105AB240/2199969.png",
+        "rewards": { "items": [92037], "achievements": [4987,4935,4950] }
+      },
+      { "id": 3, "name": "Ooze Pits", "link": "The Ooze Pit Trials", "chatlink": "[&BPgLAAA=]", "bg": [98,177,234], "icon": "https://render.guildwars2.com/file/4A5AD2C0079107784C04EEEF04CB7911105AB240/2199969.png",
+        "rewards": { "items": [92052], "achievements": [4971,4985,4956] }
+      },
+      { "id": 4, "name": "Metal Concert", "link": "A Concert for the Ages", "chatlink": "[&BPgLAAA=]", "bg": [66,153,215], "icon": "https://render.guildwars2.com/file/4A5AD2C0079107784C04EEEF04CB7911105AB240/2199969.png",
+        "rewards": { "items": [92077], "achievements": [4926,4921,4967,4995,4927,4960] }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":0,"d":10}],
+      "pattern": [{"r":1,"d":15},{"r":0,"d":13},{"r":2,"d":22},{"r":0,"d":5},{"r":3,"d":20},{"r":0,"d":15},{"r":4,"d":15},{"r":0,"d":15}]
+    }
+  },
+
+  {
+    "id": 21,
+    "category": "The Icebrood Saga",
+    "name": "Bjora Marches",
+    "segments": [
+      { "id": 0, "name": "", "bg": [132,201,251] },
+      { "id": 1, "name": "Drakkar and Spirits of the Wild", "link": "Champion of the Ice Dragon", "chatlink": "[&BDkMAAA=]", "bg": [66,153,215], "icon": "https://render.guildwars2.com/file/4B6BDF0614656A310E5041F454AA0AE40B26B709/2248191.png",
+        "rewards": { "achievements": [5141,5122,5103,5121,5104,5127,5087,5147,5098,5142,5106,5148,5139] }
+      },
+      { "id": 2, "name": "Raven Shrines", "link": "Storms of Winter", "chatlink": "[&BCcMAAA=]", "bg": [98,177,234], "icon": "https://render.guildwars2.com/file/0AAD072E707AE02AE1B9984FD8BCE1A113E759B7/2221432.png" },
+      { "id": 3, "name": "Shards and Construct", "link": "Storms of Winter", "chatlink": "[&BCcMAAA=]", "bg": [66,153,215], "icon": "https://render.guildwars2.com/file/0AAD072E707AE02AE1B9984FD8BCE1A113E759B7/2221432.png",
+        "rewards": { "achievements": [5017] }
+      },
+      { "id": 4, "name": "Icebrood Champions", "link": "Storms of Winter", "chatlink": "[&BCcMAAA=]", "bg": [98,177,234], "icon": "https://render.guildwars2.com/file/0AAD072E707AE02AE1B9984FD8BCE1A113E759B7/2221432.png",
+        "rewards": { "achievements": [5044], "items_for_achievements": [{"a": 3499, "i": 81694},{"a": 2951, "i": 78286}] }
+      }
+    ],
+    "sequences": {
+      "partial": [{"r":3,"d":5},{"r":4,"d":15}],
+      "pattern": [{"r":0,"d":45},{"r":1,"d":35},{"r":0,"d":5},{"r":2,"d":15},{"r":3,"d":5},{"r":4,"d":15}]
+    }
+  }
+]
