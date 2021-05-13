@@ -459,5 +459,19 @@
       "partial": [{"r":3,"d":5},{"r":4,"d":15}],
       "pattern": [{"r":0,"d":45},{"r":1,"d":35},{"r":0,"d":5},{"r":2,"d":15},{"r":3,"d":5},{"r":4,"d":15}]
     }
+  },
+
+  {
+    "id": 22,
+    "category": "The Icebrood Saga",
+    "name": "Dragonstorm",
+    "segments": [
+      { "id": 0, "name": "", "bg": [132, 201, 251] },
+      { "id": 1, "name": "Dragonstorm", "link": "Dragonstorm", "chatlink": "[&BAkMAAA=]", "bg": [66, 153, 215], "icon": "https://render.guildwars2.com/file/145C02AFEEFFDD58C75C0A1DD61FE5DF28176C15/2433330.png" }
+    ],
+    "sequences": {
+        "partial": [{"r": 0,"d": 60}],
+        "pattern": [{"r": 1,"d": 20}, {"r": 0,"d": 100}]
+    }
   }
 ]
