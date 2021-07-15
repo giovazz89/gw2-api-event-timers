@@ -140,10 +140,24 @@
       "partial": [],
       "pattern": [{"r":1,"d":60},{"r":0,"d":120},{"r":2,"d":60},{"r":0,"d":120},{"r":3,"d":60},{"r":0,"d":120},{"r":4,"d":60},{"r":0,"d":120}]
     }
+  },,
+  
+  {
+    "id": 5,
+    "category": "Living World Season 1",
+    "name": "Twisted Marionette",
+    "segments": [
+      { "id": 1, "name": "", "bg": [138,234,244] },
+      { "id": 2, "name": "Twisted Marionette (Public)", "link": "The Twisted Marionette", "chatlink": "[&BAkMAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/0D5CD907A06D0AD70750505CC49AB149DABAEFE7/710687.png" }
+    ],
+    "sequences": {
+      "partial": [],
+      "pattern": [{r:1,d:20},{r:0,d:100}]
+    }
   },
 
   {
-    "id": 5,
+    "id": 6,
     "category": "Living World Season 2",
     "name": "Dry Top",
     "segments": [
@@ -157,7 +171,7 @@
   },
 
   {
-    "id": 6,
+    "id": 7,
     "category": "Heart of Thorns",
     "name": "Verdant Brink",
     "segments": [
@@ -178,7 +192,7 @@
   },
 
   {
-    "id": 7,
+    "id": 8,
     "category": "Heart of Thorns",
     "name": "Auric Basin",
     "segments": [
@@ -200,7 +214,7 @@
   },
 
   {
-    "id": 8,
+    "id": 9,
     "category": "Heart of Thorns",
     "name": "Tangled Depths",
     "segments": [
@@ -217,7 +231,7 @@
   },
 
   {
-    "id": 9,
+    "id": 10,
     "category": "Heart of Thorns",
     "name": "Dragon's Stand",
     "segments": [
@@ -236,7 +250,7 @@
   },
 
   {
-    "id": 10,
+    "id": 11,
     "category": "Living World Season 3",
     "name": "Lake Doric",
     "segments": [
@@ -251,7 +265,7 @@
   },
 
   {
-    "id": 11,
+    "id": 12,
     "category": "Living World Season 3",
     "name": "Ley-Line Anomaly",
     "link": "Legendary Ley-Line Anomaly",
@@ -274,7 +288,7 @@
   },
 
   {
-    "id": 12,
+    "id": 13,
     "category": "Path of Fire",
     "name": "Crystal Oasis",
     "segments": [
@@ -291,7 +305,7 @@
   },
 
   {
-    "id": 13,
+    "id": 14,
     "category": "Path of Fire",
     "name": "Desert Highlands",
     "segments": [
@@ -307,7 +321,7 @@
   },
 
   {
-    "id": 14,
+    "id": 15,
     "category": "Path of Fire",
     "name": "Elon Riverlands",
     "segments": [
@@ -324,7 +338,7 @@
   },
 
   {
-    "id": 15,
+    "id": 16,
     "category": "Path of Fire",
     "name": "The Desolation",
     "segments": [
@@ -343,7 +357,7 @@
   },
 
   {
-    "id": 16,
+    "id": 17,
     "category": "Path of Fire",
     "name": "Domain of Vabbi",
     "segments": [
@@ -362,7 +376,7 @@
   },
 
   {
-    "id": 17,
+    "id": 18,
     "category": "Living World Season 4",
     "name": "Domain of Istan",
     "segments": [
@@ -378,7 +392,7 @@
   },
 
   {
-    "id": 18,
+    "id": 19,
     "category": "Living World Season 4",
     "name": "Jahai Bluffs",
     "segments": [
@@ -395,7 +409,7 @@
   },
 
   {
-    "id": 19,
+    "id": 20,
     "category": "Living World Season 4",
     "name": "Thunderhead Peaks",
     "segments": [
@@ -414,7 +428,7 @@
   },
 
   {
-    "id": 20,
+    "id": 21,
     "category": "The Icebrood Saga",
     "name": "Grothmar Valley",
     "segments": [
@@ -439,7 +453,7 @@
   },
 
   {
-    "id": 21,
+    "id": 22,
     "category": "The Icebrood Saga",
     "name": "Bjora Marches",
     "segments": [
@@ -462,7 +476,7 @@
   },
 
   {
-    "id": 22,
+    "id": 23,
     "category": "The Icebrood Saga",
     "name": "Dragonstorm",
     "segments": [
