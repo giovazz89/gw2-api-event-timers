@@ -141,27 +141,6 @@
       "pattern": [{"r":1,"d":60},{"r":0,"d":120},{"r":2,"d":60},{"r":0,"d":120},{"r":3,"d":60},{"r":0,"d":120},{"r":4,"d":60},{"r":0,"d":120}]
     }
   },
-  
-  {
-    "id": 5,
-    "category": "Living World Season 1",
-    "name": "Twisted Marionette",
-    "segments": [
-      { "id": 0, "name": "", "bg": [138,234,244] },
-      { "id": 1, "name": "Twisted Marionette (Public)", "link": "The Twisted Marionette", "chatlink": "[&BAkMAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/0D5CD907A06D0AD70750505CC49AB149DABAEFE7/710687.png",
-          "rewards": {
-            "items": [49658],
-            "random_items": [49678,49652,49651,49827],
-            "coins": 20000,
-            "achievements": [1307,1305,1304,1310,1311,1308,1312,1313,1314,1306,5852,5858,720,5854,5857]
-          }
-      }
-    ],
-    "sequences": {
-      "partial": [],
-      "pattern": [{"r":1,"d":20},{"r":0,"d":100}]
-    }
-  },
 
   {
     "id": 6,
