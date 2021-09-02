@@ -9,6 +9,7 @@ The events.json file contains an array of JSON objects structured in a similar w
     "id": section order in the specified category (usable as numerical ID),
     "category": "Category name, can be repeated in multiple sections - e.g. Core Tyria",
     "name": "Section Name - e.g. World Bosses",
+    "active": true usually (false for inactive special events),
     "link": "wiki search keywords",
     "segments": [
       {
@@ -18,6 +19,7 @@ The events.json file contains an array of JSON objects structured in a similar w
         "chatlink": "chatlink - e.g. [&BKoBAAA=]",
         "bg": [255,255,255],
         "icon": "related achievements icon URL",
+        "v1_event_id": "event ID (if any) to resolve against https://api.guildwars2.com/v1/event_details.json?event_id=...",
         "lfg": minutes needed to find a decent group to complete the achievement,
         "rewards": {
           "items": array of guaranteed item IDs from this event,
