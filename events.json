@@ -520,7 +520,7 @@
       { "id": 2, "name": "Skimmer Race", "link": "Skimmer Slalom: Reach the finish line!", "chatlink": "[&BBwHAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/C40E7AC932F5FEEAF203E603C8DE300CCC9A1207/602785.png", "v1_event_id": "466F00D4-61F9-4FD2-B70D-08B41EF2C76F",
         "rewards": { "achievements": [4277,4873] }
       },
-      { "id": 2, "name": "Dolyak Race", "link": "Flying Dolyak: Reach the finish line!", "chatlink": "[&BBwHAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/C40E7AC932F5FEEAF203E603C8DE300CCC9A1207/602785.png", "v1_event_id": "D75E04F2-251F-4CB0-BE34-04D48765FFCC",
+      { "id": 3, "name": "Dolyak Race", "link": "Flying Dolyak: Reach the finish line!", "chatlink": "[&BBwHAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/C40E7AC932F5FEEAF203E603C8DE300CCC9A1207/602785.png", "v1_event_id": "D75E04F2-251F-4CB0-BE34-04D48765FFCC",
         "rewards": { "achievements": [4292] }
       }
     ],
