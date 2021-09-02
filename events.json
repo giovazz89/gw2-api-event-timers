@@ -42,43 +42,43 @@
           "items_for_achievements": [{"a": 4233, "i": 88046},{"a": 2336, "i": 76779},{"a": 2528, "i": 75398},{"a": 2180, "i": 75082},{"a": 2556, "i": 71121},{"a": 2502, "i": 74151},{"a": 2536, "i": 76086},{"a": 2374, "i": 75154},{"a": 2433, "i": 73627}]
         }
       },
-      { "id": 4, "name": "Golem Mark II", "link": "Defeat the Inquest's golem Mark II", "chatlink": "[&BNQCAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png", "lfg": 5, "v1_event_id": "33F76E9E-0BB6-46D0-A3A9-BE4CDFC4A3A4",
+      { "id": 4, "name": "Golem Mark II", "link": "Defeat the Inquest's golem Mark II", "chatlink": "[&BNQCAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png", "lfg": 5, "v1_event_id": "9AA133DC-F630-4A0E-BB5D-EE34A2B306C2",
         "rewards": {
           "items_for_achievements": [{"a": 4205, "i": 87733},{"a": 4233, "i": 87646},{"a": 4692, "i": 90266},{"a": 1711, "i": 39472},{"a": 2258, "i": 70944},{"a": 5229, "i": 92982},{"a": 2480, "i": 75970},{"a": 2409, "i": 74511},{"a": 2468, "i": 75432},{"a": 2556, "i": 75483},{"a": 2502, "i": 74282},{"a": 2268, "i": 70965},{"a": 2943, "i": 78570}]
         }
       },
-      { "id": 5, "name": "Great Jungle Wurm", "link": "Defeat the great jungle wurm", "chatlink": "[&BEEFAAA=]", "bg": [138,234,244], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+      { "id": 5, "name": "Great Jungle Wurm", "link": "Defeat the great jungle wurm", "chatlink": "[&BEEFAAA=]", "bg": [138,234,244], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png", "v1_event_id": "C5972F64-B894-45B4-BC31-2DEEA6B7C033",
         "rewards": {
           "random_items": [19359,19355],
           "achievements": [338],
           "items_for_achievements": [{"a": 4233, "i": 87861},{"a": 2450, "i": 70861},{"a": 2528, "i": 73703},{"a": 2374, "i": 71299}]
         }
       },
-      { "id": 6, "name": "Megadestroyer", "link": "Kill the megadestroyer before it blows everyone up", "chatlink": "[&BM0CAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png", "lfg": 5,
+      { "id": 6, "name": "Megadestroyer", "link": "Kill the megadestroyer before it blows everyone up", "chatlink": "[&BM0CAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png", "lfg": 5, "v1_event_id": "C876757A-EF3E-4FBE-A484-07FF790D9B05",
         "rewards": {
           "items_for_achievements": [{"a": 2478, "i": 71517},{"a": 2180, "i": 74706},{"a": 2433, "i": 71653},{"a": 2556, "i": 71106},{"a": 2536, "i": 76593}]
         }
       },
-      { "id": 7, "name": "Modniir Ulgoth", "link": "Defeat Ulgoth the Modniir and his minions", "chatlink": "[&BLAAAAA=]", "bg": [ 66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png", "lfg": 5,
+      { "id": 7, "name": "Modniir Ulgoth", "link": "Defeat Ulgoth the Modniir and his minions", "chatlink": "[&BLAAAAA=]", "bg": [ 66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png", "lfg": 5, "v1_event_id": "E6872A86-E434-4FC1-B803-89921FF0F6D6",
         "rewards": {
           "random_items": [19366],
           "items_for_achievements": [{"a": 2389, "i": 75716},{"a": 2420, "i": 72104},{"a": 2374, "i": 74239},{"a": 2280, "i": 73659},{"a": 2943, "i": 78684},{"a": 1711, "i": 39473},{"a": 2584, "i": 76023},{"a": 2375, "i": 71279},{"a": 5196, "i": 93270}]
         }
       },
-      { "id": 8, "name": "Shadow Behemoth", "link": "Defeat the shadow behemoth", "chatlink": "[&BPcAAAA=]", "bg": [138,234,244], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+      { "id": 8, "name": "Shadow Behemoth", "link": "Defeat the shadow behemoth", "chatlink": "[&BPcAAAA=]", "bg": [138,234,244], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png", "v1_event_id": "31CEBA08-E44D-472F-81B0-7143D73797F5",
         "rewards": {
           "random_items": [19360,31051],
           "achievements": [337],
           "items_for_achievements": [{"a": 4233, "i": 87776},{"a": 4692, "i": 90577},{"a": 5003, "i": 92173},{"a": 2336, "i": 74723},{"a": 2183, "i": 74259},{"a": 2550, "i": 72479},{"a": 2253, "i": 72128},{"a": 2260, "i": 74779},{"a": 2536, "i": 77215},{"a": 2250, "i": 72286},{"a": 2550, "i": 73182}]
         }
       },
-      { "id": 9, "name": "Svanir Shaman Chief", "link": "Kill the Svanir shaman chief to break his control over the ice elemental", "chatlink": "[&BMIDAAA=]", "bg": [138,234,244], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+      { "id": 9, "name": "Svanir Shaman Chief", "link": "Kill the Svanir shaman chief to break his control over the ice elemental", "chatlink": "[&BMIDAAA=]", "bg": [138,234,244], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png", "v1_event_id": "F7D9D427-5E54-4F12-977A-9809B23FBA99",
         "rewards": {
           "achievements": [341],
           "items_for_achievements": [{"a": 2479, "i": 76538},{"a": 2502, "i": 71942},{"a": 2280, "i": 71950},{"a": 2441, "i": 74404},{"a": 2441, "i": 73232},{"a": 2393, "i": 77047},{"a": 1711, "i": 39469}]
         }
       },
-      { "id": 10, "name": "The Shatterer", "link": "Slay the Shatterer", "chatlink": "[&BE4DAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/BEBC5CBBD70DB678FA3E329D3BE59DE27CECCA14/1341585.png", "lfg": 10,
+      { "id": 10, "name": "The Shatterer", "link": "Slay the Shatterer", "chatlink": "[&BE4DAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/BEBC5CBBD70DB678FA3E329D3BE59DE27CECCA14/1341585.png", "lfg": 10, "v1_event_id": "03BF176A-D59F-49CA-A311-39FC6F533F2F",
         "rewards": {
           "achievements": [340,2812,2796,2801,2813,2799,2810,2797,2803,2807,2798,2808],
           "items_for_achievements": [{"a": 4233, "i": 87901},{"a": 2480, "i": 73647},{"a": 2187, "i": 73598},{"a": 2478, "i": 76429},{"a": 2180, "i": 75146},{"a": 2556, "i": 71872},{"a": 2536, "i": 71404},{"a": 2468, "i": 72322},{"a": 2268, "i": 74429},{"a": 2943, "i": 78683},{"a": 1711, "i": 39467},{"a": 2585, "i": 73674}]
@@ -99,20 +99,20 @@
     "link": "World boss",
     "segments": [
       { "id": 0, "name": "", "bg": [138,234,244] },
-      { "id": 1, "name": "Evolved Jungle Wurm", "link": "Triple Trouble", "chatlink": "[&BKoBAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/B197F05D1FB333ABC87EAF09BE0A44C50B4AEC3C/710688.png",
+      { "id": 1, "name": "Evolved Jungle Wurm", "link": "Triple Trouble", "chatlink": "[&BKoBAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/B197F05D1FB333ABC87EAF09BE0A44C50B4AEC3C/710688.png", "v1_event_id": "F06787F5-CFC0-499A-954E-EC125FA71C9D",
         "rewards": {
           "random_items": [49670,67213,71413,49836,49828,49831,49724],
           "achievements": [2474,2620,2169,1333,1338,1335,1341,1339,1340,1336,1337,1332,1459,1334],
           "items_for_achievements": [{"a": 2524, "i": 75371},{"a": 2524, "i": 73857},{"a": 2524, "i": 76571},{"a": 2468, "i": 71124}]
         }
       },
-      { "id": 2, "name": "Karka Queen", "link": "Defeat the Karka Queen threatening the settlements", "chatlink": "[&BNUGAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png",
+      { "id": 2, "name": "Karka Queen", "link": "Defeat the Karka Queen threatening the settlements", "chatlink": "[&BNUGAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7554DCAF5A1EA1BDF5297352A203AF2357BE2B5B/498983.png", "v1_event_id": "5282B66A-126F-4DA4-8E9D-0D9802227B6D",
         "rewards": {
           "achievements": [2202],
           "items_for_achievements": [{"a": 2313, "i": 73047},{"a": 2524, "i": 75767},{"a": 2253, "i": 72434},{"a": 2177, "i": 75859},{"a": 2428, "i": 73965},{"a": 2536, "i": 73362},{"a": 2374, "i": 70496},{"a": 2268, "i": 76589},{"a": 2250, "i": 70803},{"a": 2302, "i": 75404}]
         }
       },
-      { "id": 3, "name": "Tequatl the Sunless", "link": "Defeat Tequatl the Sunless", "chatlink": "[&BNABAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/57490B059669DA64517C99BCA5A359082696DEC9/638120.png", "lfg": 15,
+      { "id": 3, "name": "Tequatl the Sunless", "link": "Defeat Tequatl the Sunless", "chatlink": "[&BNABAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/57490B059669DA64517C99BCA5A359082696DEC9/638120.png", "lfg": 15, "v1_event_id": "568A30CF-8512-462F-9D67-647D69BEFAED",
         "rewards": {
           "random_items": [47846,47870,71413,47872,47845,19363,19358,47874,47875,47873,47871],
           "achievements": [342,904,905,906,908,903,901,902,900,909,907],
@@ -152,8 +152,8 @@
     "name": "Dry Top",
     "active": true,
     "segments": [
-      { "id": 1, "name": "Crash Site", "link": "Crash Site (meta event)", "bg": [251,227,132], "icon": "https://render.guildwars2.com/file/2B38D85D12685D43E6B942AD43FFB667F73DA406/1302677.png" },
-      { "id": 2, "name": "Sandstorm", "link": "Sandstorm!", "chatlink": "[&BIAHAAA=]", "bg": [215,185, 66], "icon": "https://render.guildwars2.com/file/2B38D85D12685D43E6B942AD43FFB667F73DA406/1302677.png" }
+      { "id": 1, "name": "Crash Site", "link": "Crash Site (meta event)", "bg": [251,227,132], "icon": "https://render.guildwars2.com/file/2B38D85D12685D43E6B942AD43FFB667F73DA406/1302677.png", "v1_event_id": "8790C350-5119-461C-90FD-0D162EE1C46" },
+      { "id": 2, "name": "Sandstorm", "link": "Sandstorm!", "chatlink": "[&BIAHAAA=]", "bg": [215,185, 66], "icon": "https://render.guildwars2.com/file/2B38D85D12685D43E6B942AD43FFB667F73DA406/1302677.png", "v1_event_id": "67129180-858A-4768-BE5B-FFEF01128E4A" }
     ],
     "sequences": {
       "partial": [],
@@ -170,10 +170,10 @@
       { "id": 1, "name": "Day: Securing Verdant Brink", "link": "Securing Verdant Brink", "bg": [231,251,132], "icon": "https://render.guildwars2.com/file/FB0BA9033D37C93346949B5EF001720D27CD07C2/1228233.png",
         "rewards": { "achievements": [2281] }
       },
-      { "id": 2, "name": "Night: Night and the Enemy", "link": "Night and the Enemy", "bg": [211,234, 98], "icon": "https://render.guildwars2.com/file/FB0BA9033D37C93346949B5EF001720D27CD07C2/1228233.png",
+      { "id": 2, "name": "Night: Night and the Enemy", "link": "Night and the Enemy", "bg": [211,234, 98], "icon": "https://render.guildwars2.com/file/FB0BA9033D37C93346949B5EF001720D27CD07C2/1228233.png", "v1_event_id": "9F5747F2-1430-459F-A627-C1699E656140",
         "rewards": { "achievements": [2165] }
       },
-      { "id": 3, "name": "Night Bosses", "link": "Night and the Enemy", "chatlink": "[&BAgIAAA=]", "bg": [190,215, 66], "icon": "https://render.guildwars2.com/file/FB0BA9033D37C93346949B5EF001720D27CD07C2/1228233.png",
+      { "id": 3, "name": "Night Bosses", "link": "Night and the Enemy", "chatlink": "[&BAgIAAA=]", "bg": [190,215, 66], "icon": "https://render.guildwars2.com/file/FB0BA9033D37C93346949B5EF001720D27CD07C2/1228233.png", "v1_event_id": "9F5747F2-1430-459F-A627-C1699E656140",
         "rewards": { "items": [78171], "random_items": [75055], "achievements": [2566,2369,2333,2423,2211,2294] }
       }
     ],
@@ -189,7 +189,7 @@
     "name": "Auric Basin",
     "active": true,
     "segments": [
-      { "id": 1, "name": "Pylons", "link": "Defending Tarir", "chatlink": "[&BN0HAAA=]", "bg": [231,251,132], "icon": "https://render.guildwars2.com/file/7D803B05D3F932974ACA08F8725A28A491FEF0E2/1228221.png",
+      { "id": 1, "name": "Pylons", "link": "Defending Tarir", "chatlink": "[&BN0HAAA=]", "bg": [231,251,132], "icon": "https://render.guildwars2.com/file/7D803B05D3F932974ACA08F8725A28A491FEF0E2/1228221.png", "v1_event_id": "9FFA99CB-F5AD-4EBE-9DC7-775B4542C2A1",
         "rewards": { "achievements": [2427] }
       },
       { "id": 2, "name": "Challenges", "link": "Battle in Tarir (map meta event)", "bg": [211,234, 98], "icon": "https://render.guildwars2.com/file/7D803B05D3F932974ACA08F8725A28A491FEF0E2/1228221.png",
@@ -268,13 +268,13 @@
     "link": "Legendary Ley-Line Anomaly",
     "segments": [
       { "id": 0, "name": "", "bg": [251,132,152] },
-      { "id": 1, "name": "Timberline Falls", "link": "Defeat the Ley-Line Anomaly to disperse its destructive energy before it overloads", "chatlink": "[&BEwCAAA=]", "bg": [215, 66, 91], "icon": "https://render.guildwars2.com/file/2F030A07047DF63DE8F5DD3E5B7F0106FF4EB1ED/1769803.png",
+      { "id": 1, "name": "Timberline Falls", "link": "Defeat the Ley-Line Anomaly to disperse its destructive energy before it overloads", "chatlink": "[&BEwCAAA=]", "bg": [215, 66, 91], "icon": "https://render.guildwars2.com/file/2F030A07047DF63DE8F5DD3E5B7F0106FF4EB1ED/1769803.png", "v1_event_id": "7418C0EB-BFFE-4899-871C-C63540502C8D",
         "rewards": { "items": [19976,79047], "achievements": [3029,3036,3037,3026], "items_for_achievements": [{"a": 4205, "i": 87678}] }
       },
-      { "id": 2, "name": "Iron Marches", "link": "Defeat the Ley-Line Anomaly to disperse its destructive energy before it overloads", "chatlink": "[&BOYBAAA=]", "bg": [215, 66, 91], "icon":  "https://render.guildwars2.com/file/2F030A07047DF63DE8F5DD3E5B7F0106FF4EB1ED/1769803.png",
+      { "id": 2, "name": "Iron Marches", "link": "Defeat the Ley-Line Anomaly to disperse its destructive energy before it overloads", "chatlink": "[&BOYBAAA=]", "bg": [215, 66, 91], "icon":  "https://render.guildwars2.com/file/2F030A07047DF63DE8F5DD3E5B7F0106FF4EB1ED/1769803.png", "v1_event_id": "6B0265A6-0085-4268-981E-1B91005E5995",
         "rewards": { "items": [19976,79047], "achievements": [3029,3036,3037,3026], "items_for_achievements": [{"a": 4205, "i": 87678}] }
       },
-      { "id": 3, "name": "Gendarran Fields", "link": "Defeat the Ley-Line Anomaly to disperse its destructive energy before it overloads", "chatlink": "[&BO0AAAA=]", "bg": [215, 66, 91], "icon":  "https://render.guildwars2.com/file/2F030A07047DF63DE8F5DD3E5B7F0106FF4EB1ED/1769803.png",
+      { "id": 3, "name": "Gendarran Fields", "link": "Defeat the Ley-Line Anomaly to disperse its destructive energy before it overloads", "chatlink": "[&BO0AAAA=]", "bg": [215, 66, 91], "icon":  "https://render.guildwars2.com/file/2F030A07047DF63DE8F5DD3E5B7F0106FF4EB1ED/1769803.png", "v1_event_id": "E36B80D5-7373-4336-8954-86F886C9725D",
         "rewards": { "items": [19976,79047], "achievements": [3029,3036,3037,3026], "items_for_achievements": [{"a": 4205, "i": 87678}] }
       }
     ],
@@ -309,7 +309,7 @@
     "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [251,199,132] },
-      { "id": 1, "name": "Buried Treasure", "link": "The Search for Buried Treasure", "chatlink": "[&BGsKAAA=]", "bg": [234,175, 98], "icon": "https://render.guildwars2.com/file/6859002CFD48056E19606FA2C99759B857155F67/1769810.png",
+      { "id": 1, "name": "Buried Treasure", "link": "The Search for Buried Treasure", "chatlink": "[&BGsKAAA=]", "bg": [234,175, 98], "icon": "https://render.guildwars2.com/file/6859002CFD48056E19606FA2C99759B857155F67/1769810.png", "v1_event_id": "5BB43CBC-5919-4961-8C24-1A65482BAC8A",
         "rewards": { "items": [83439] }
       }
     ],
@@ -326,8 +326,10 @@
     "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [251,199,132] },
-      { "id": 1, "name": "The Path to Ascension: Augury Rock", "link": "The Path to Ascension", "chatlink": "[&BFMKAAA=]", "bg": [234,175, 98], "icon": "https://render.guildwars2.com/file/D65580C1D2B45CB14D04CBE17BF470657890BB31/1769813.png" },
-      { "id": 2, "name": "Doppelganger", "link": "The Path to Ascension", "chatlink": "[&BCgKAAA=]", "bg": [215,150, 66], "icon": "https://render.guildwars2.com/file/D65580C1D2B45CB14D04CBE17BF470657890BB31/1769813.png",
+      { "id": 1, "name": "The Path to Ascension: Augury Rock", "link": "The Path to Ascension", "chatlink": "[&BFMKAAA=]", "bg": [234,175, 98], "icon": "https://render.guildwars2.com/file/D65580C1D2B45CB14D04CBE17BF470657890BB31/1769813.png", "v1_event_id": "84A563F9-BB7A-4BC4-A8F2-2823346313E0",
+          "rewards": { "random_items": [84730] }
+      },
+      { "id": 2, "name": "Doppelganger", "link": "The Path to Ascension", "chatlink": "[&BCgKAAA=]", "bg": [215,150, 66], "icon": "https://render.guildwars2.com/file/D65580C1D2B45CB14D04CBE17BF470657890BB31/1769813.png", "v1_event_id": "57ADAD27-3C12-4103-ADE4-232252659F91",
         "rewards": { "items": [91039], "achievements": [3571,3819] }
       }
     ],
@@ -344,10 +346,10 @@
     "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [251,199,132] },
-      { "id": 1, "name": "Maws of Torment", "chatlink": "[&BKMKAAA=]", "bg": [215,150, 66], "icon": "https://render.guildwars2.com/file/233F0199ED7A77DC1275EA4447013573640F15BE/1769826.png",
+      { "id": 1, "name": "Maws of Torment", "chatlink": "[&BKMKAAA=]", "bg": [215,150, 66], "icon": "https://render.guildwars2.com/file/233F0199ED7A77DC1275EA4447013573640F15BE/1769826.png", "v1_event_id": "0FA88EEA-5B23-4DEA-91F1-A8B1DD1BCE91",
         "rewards": { "items": [84360], "achievements": [3782], "items_for_achievements": [{"a": 3798, "i": 83561}] }
       },
-      { "id": 2, "name": "Junundu Rising", "chatlink": "[&BMEKAAA=]", "bg": [234,175, 98], "icon": "https://render.guildwars2.com/file/233F0199ED7A77DC1275EA4447013573640F15BE/1769826.png",
+      { "id": 2, "name": "Junundu Rising", "chatlink": "[&BMEKAAA=]", "bg": [234,175, 98], "icon": "https://render.guildwars2.com/file/233F0199ED7A77DC1275EA4447013573640F15BE/1769826.png", "v1_event_id": "77325F96-BA8B-4051-94A4-31C72379208",
         "rewards": { "items": [84360], "achievements": [3774], "items_for_achievements": [{"a": 3881, "i": 83268}] }
       }
     ],
@@ -367,7 +369,7 @@
       { "id": 1, "name": "Serpents' Ire", "chatlink": "[&BHQKAAA=]", "bg": [234,175, 98], "icon": "https://render.guildwars2.com/file/02F498E62D99E55B737797B4736870CB1F76DC03/1769812.png",
         "rewards": { "items": [83035], "items_for_achievements": [{"a": 3798, "i": 84710},{"a": 4108, "i": 87205}] }
       },
-      { "id": 2, "name": "Forged with Fire", "chatlink": "[&BO0KAAA=]", "bg": [215,150, 66], "icon": "https://render.guildwars2.com/file/02F498E62D99E55B737797B4736870CB1F76DC03/1769812.png",
+      { "id": 2, "name": "Forged with Fire", "chatlink": "[&BO0KAAA=]", "bg": [215,150, 66], "icon": "https://render.guildwars2.com/file/02F498E62D99E55B737797B4736870CB1F76DC03/1769812.png", "v1_event_id": "A820BED2-AC11-4568-BCB1-54498C79F717",
         "rewards": { "items": [83035], "achievements": [3809] }
       }
     ],
@@ -384,7 +386,7 @@
     "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [187,119,207] },
-      { "id": 1, "name": "Palawadan", "link": "Palawadan, Jewel of Istan (meta event)", "chatlink": "[&BAkLAAA=]", "bg": [157,65,185], "icon": "https://render.guildwars2.com/file/056C32B97B15F04E2BD6A660FC451946ED086040/1895981.png", "lfg": 2,
+      { "id": 1, "name": "Palawadan", "link": "Palawadan, Jewel of Istan (meta event)", "chatlink": "[&BAkLAAA=]", "bg": [157,65,185], "icon": "https://render.guildwars2.com/file/056C32B97B15F04E2BD6A660FC451946ED086040/1895981.png", "lfg": 2, "v1_event_id": "E68AA03E-C11D-4EC1-BD79-0D0880D4CF9E",
         "rewards": { "achievements": [3969,3985,4042,3989,3992] }
       }
     ],
@@ -401,8 +403,8 @@
     "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [187,119,207] },
-      { "id": 1, "name": "Escorts", "link": "Dangerous Prey", "chatlink": "[&BIMLAAA=]", "bg": [175, 96,199], "icon": "https://render.guildwars2.com/file/29C575F5601EC9D003B80BE497077E424FA2F704/2039753.png" },
-      { "id": 2, "name": "Death-Branded Shatterer", "link": "Destroy the Death-Branded Shatterer", "chatlink": "[&BJMLAAA=]", "bg": [157,65,185], "icon": "https://render.guildwars2.com/file/29C575F5601EC9D003B80BE497077E424FA2F704/2039753.png", "lfg": 5,
+      { "id": 1, "name": "Escorts", "link": "Dangerous Prey", "chatlink": "[&BIMLAAA=]", "bg": [175, 96,199], "icon": "https://render.guildwars2.com/file/29C575F5601EC9D003B80BE497077E424FA2F704/2039753.png", "v1_event_id": "8915A6A9-9943-4177-92E7-631461A53162" },
+      { "id": 2, "name": "Death-Branded Shatterer", "link": "Destroy the Death-Branded Shatterer", "chatlink": "[&BJMLAAA=]", "bg": [157,65,185], "icon": "https://render.guildwars2.com/file/29C575F5601EC9D003B80BE497077E424FA2F704/2039753.png", "lfg": 5, "v1_event_id": "A9EC79C9-809C-4BE2-BBBA-80CD1A067D75",
         "rewards": { "achievements": [4413], "items_for_achievements": [{"a": 1711, "i": 39467}] }
       }
     ],
@@ -419,10 +421,10 @@
     "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [187,119,207] },
-      { "id": 1, "name": "Thunderhead Keep", "link": "Thunderhead Keep (meta event)", "chatlink": "[&BLsLAAA=]", "bg": [157,65,185], "icon": "https://render.guildwars2.com/file/9F2162C048B268C30F1172C71DB107A45BCEF905/2084714.png",
+      { "id": 1, "name": "Thunderhead Keep", "link": "Thunderhead Keep (meta event)", "chatlink": "[&BLsLAAA=]", "bg": [157,65,185], "icon": "https://render.guildwars2.com/file/9F2162C048B268C30F1172C71DB107A45BCEF905/2084714.png", "v1_event_id": "8DBFFBC8-6D6A-4A87-9EC4-37A694E4B444",
         "rewards": { "items": [89828], "achievements": [4507,4595], "items_for_achievements": [{"a": 4764, "i": 91132}] }
       },
-      { "id": 2, "name": "The Oil Floes", "chatlink": "[&BKYLAAA=]", "bg": [157,65,185], "icon": "https://render.guildwars2.com/file/9F2162C048B268C30F1172C71DB107A45BCEF905/2084714.png", "lfg": 5,
+      { "id": 2, "name": "The Oil Floes", "chatlink": "[&BKYLAAA=]", "bg": [157,65,185], "icon": "https://render.guildwars2.com/file/9F2162C048B268C30F1172C71DB107A45BCEF905/2084714.png", "lfg": 5, "v1_event_id": "2F1E09AF-092B-48E6-BD20-435026298CE0",
         "rewards": { "items": [89692], "achievements": [4516,4532,4522] }
       }
     ],
@@ -439,16 +441,16 @@
     "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [132,201,251] },
-      { "id": 1, "name": "Effigy", "link": "Ceremony of the Sacred Flame", "chatlink": "[&BA4MAAA=]", "bg": [98,177,234], "icon": "https://render.guildwars2.com/file/4A5AD2C0079107784C04EEEF04CB7911105AB240/2199969.png",
+      { "id": 1, "name": "Effigy", "link": "Ceremony of the Sacred Flame", "chatlink": "[&BA4MAAA=]", "bg": [98,177,234], "icon": "https://render.guildwars2.com/file/4A5AD2C0079107784C04EEEF04CB7911105AB240/2199969.png", "v1_event_id": "00F2145D-4EE8-41E0-8959-84E03B2071B1",
         "rewards": { "items": [92082], "achievements": [4941,4978] }
       },
-      { "id": 2, "name": "Doomlore Shrine", "link": "The Haunting of Doomlore Shrine", "chatlink": "[&BA4MAAA=]", "bg": [ 66,153,215], "icon": "https://render.guildwars2.com/file/4A5AD2C0079107784C04EEEF04CB7911105AB240/2199969.png",
+      { "id": 2, "name": "Doomlore Shrine", "link": "The Haunting of Doomlore Shrine", "chatlink": "[&BA4MAAA=]", "bg": [ 66,153,215], "icon": "https://render.guildwars2.com/file/4A5AD2C0079107784C04EEEF04CB7911105AB240/2199969.png", "v1_event_id": "30F25EA1-3421-4633-AC3C-0FCDD057182C",
         "rewards": { "items": [92037], "achievements": [4987,4935,4950] }
       },
-      { "id": 3, "name": "Ooze Pits", "link": "The Ooze Pit Trials", "chatlink": "[&BPgLAAA=]", "bg": [98,177,234], "icon": "https://render.guildwars2.com/file/4A5AD2C0079107784C04EEEF04CB7911105AB240/2199969.png",
+      { "id": 3, "name": "Ooze Pits", "link": "The Ooze Pit Trials", "chatlink": "[&BPgLAAA=]", "bg": [98,177,234], "icon": "https://render.guildwars2.com/file/4A5AD2C0079107784C04EEEF04CB7911105AB240/2199969.png", "v1_event_id": "87C67639-FFB9-4F91-A594-B65472EEAC3A",
         "rewards": { "items": [92052], "achievements": [4971,4985,4956] }
       },
-      { "id": 4, "name": "Metal Concert", "link": "A Concert for the Ages", "chatlink": "[&BPgLAAA=]", "bg": [66,153,215], "icon": "https://render.guildwars2.com/file/4A5AD2C0079107784C04EEEF04CB7911105AB240/2199969.png",
+      { "id": 4, "name": "Metal Concert", "link": "A Concert for the Ages", "chatlink": "[&BPgLAAA=]", "bg": [66,153,215], "icon": "https://render.guildwars2.com/file/4A5AD2C0079107784C04EEEF04CB7911105AB240/2199969.png", "v1_event_id": "C33A5B3D-5FEA-4D2E-ACF8-EC12B1E1F226",
         "rewards": { "items": [92077], "achievements": [4926,4921,4967,4995,4927,4960] }
       }
     ],
@@ -465,14 +467,14 @@
     "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [132,201,251] },
-      { "id": 1, "name": "Drakkar and Spirits of the Wild", "link": "Champion of the Ice Dragon", "chatlink": "[&BDkMAAA=]", "bg": [66,153,215], "icon": "https://render.guildwars2.com/file/4B6BDF0614656A310E5041F454AA0AE40B26B709/2248191.png",
+      { "id": 1, "name": "Drakkar and Spirits of the Wild", "link": "Champion of the Ice Dragon", "chatlink": "[&BDkMAAA=]", "bg": [66,153,215], "icon": "https://render.guildwars2.com/file/4B6BDF0614656A310E5041F454AA0AE40B26B709/2248191.png", "v1_event_id": "B6CDD04D-281E-4FAF-B323-B307F502CBEB",
         "rewards": { "achievements": [5141,5122,5103,5121,5104,5127,5087,5147,5098,5142,5106,5148,5139] }
       },
-      { "id": 2, "name": "Raven Shrines", "link": "Storms of Winter", "chatlink": "[&BCcMAAA=]", "bg": [98,177,234], "icon": "https://render.guildwars2.com/file/0AAD072E707AE02AE1B9984FD8BCE1A113E759B7/2221432.png" },
-      { "id": 3, "name": "Shards and Construct", "link": "Storms of Winter", "chatlink": "[&BCcMAAA=]", "bg": [66,153,215], "icon": "https://render.guildwars2.com/file/0AAD072E707AE02AE1B9984FD8BCE1A113E759B7/2221432.png", "lfg": 5,
+      { "id": 2, "name": "Raven Shrines", "link": "Storms of Winter", "chatlink": "[&BCcMAAA=]", "bg": [98,177,234], "icon": "https://render.guildwars2.com/file/0AAD072E707AE02AE1B9984FD8BCE1A113E759B7/2221432.png", "v1_event_id": "E7231CBC-2DFD-4105-BEAD-2484DE5CF2E4" },
+      { "id": 3, "name": "Shards and Construct", "link": "Storms of Winter", "chatlink": "[&BCcMAAA=]", "bg": [66,153,215], "icon": "https://render.guildwars2.com/file/0AAD072E707AE02AE1B9984FD8BCE1A113E759B7/2221432.png", "lfg": 5, "v1_event_id": "C2FCB6EE-A08F-4FCA-A3F6-302CE96531AF",
         "rewards": { "achievements": [5017] }
       },
-      { "id": 4, "name": "Icebrood Champions", "link": "Storms of Winter", "chatlink": "[&BCcMAAA=]", "bg": [98,177,234], "icon": "https://render.guildwars2.com/file/0AAD072E707AE02AE1B9984FD8BCE1A113E759B7/2221432.png",
+      { "id": 4, "name": "Icebrood Champions", "link": "Storms of Winter", "chatlink": "[&BCcMAAA=]", "bg": [98,177,234], "icon": "https://render.guildwars2.com/file/0AAD072E707AE02AE1B9984FD8BCE1A113E759B7/2221432.png", "v1_event_id": "66D1D929-F367-4945-A8A4-40EE1E32532E",
         "rewards": { "achievements": [5044], "items_for_achievements": [{"a": 3499, "i": 81694},{"a": 2951, "i": 78286}] }
       }
     ],
