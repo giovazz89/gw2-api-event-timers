@@ -560,7 +560,7 @@
     "id": 25,
     "category": "Special Events",
     "name": "Halloween",
-    "active": false,
+    "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [242,215,162] },
       { "id": 1, "name": "Mad King Says", "link": "Your Mad King says...", "chatlink": "[&BBAEAAA=]", "bg": [232,163,31], "icon": "https://render.guildwars2.com/file/7148FBEFC0071191C91BFD37D1346BF70DA65403/602778.png", "v1_event_id": "D92AF44A-647E-41CE-8E92-3E0CEE3AA38D",
