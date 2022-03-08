@@ -571,5 +571,83 @@
         "partial": [],
         "pattern": [{"r":1,"d":10},{"r":0,"d":110}]
     }
+  },
+  
+  {
+    "id": 26,
+    "category": "End of Dragons",
+    "name": "Cantha: Day and night",
+    "active": true,
+    "segments": [
+      { "id": 1, "name": "Day", "link": "Day and night", "bg": [255,255,255] },
+      { "id": 2, "name": "Dusk", "link": "Day and night", "bg": [255,255,255] },
+      { "id": 3, "name": "Night", "link": "Day and night", "bg": [122,134,171] },
+      { "id": 4, "name": "Dawn", "link": "Day and night", "bg": [122,134,171] }
+    ],
+    "sequences": {
+      "partial": [{"r":3,"d":35},{"r":4,"d":5}],
+      "pattern": [{"r":1,"d":55},{"r":2,"d":5},{"r":3,"d":55},{"r":4,"d":5}]
+    }
+  },
+  
+  {
+    "id": 27,
+    "category": "End of Dragons",
+    "name": "Seitung Province",
+    "active": true,
+    "segments": [
+      { "id": 0, "name": "", "bg": [138,234,244] },
+      { "id": 1, "name": "Aetherblade Assault", "link": "Aetherblade Assault", "chatlink": "[&BGUNAAA=]", "bg": [66,200,215] }
+    ],
+    "sequences": {
+      "partial": [{"r":0,"d":90}],
+      "pattern": [{"r":1,"d":30},{"r":0,"d":90}]
+    }
+  },
+  
+  {
+    "id": 28,
+    "category": "End of Dragons",
+    "name": "New Kaineng City",
+    "active": true,
+    "segments": [
+      { "id": 0, "name": "", "bg": [138,234,244] },
+      { "id": 1, "name": "Kaineng Blackout", "link": "Kaineng Blackout", "chatlink": "[&BBkNAAA=]", "bg": [66,200,215] }
+    ],
+    "sequences": {
+      "partial": [],
+      "pattern": [{"r":1,"d":30},{"r":0,"d":90}]
+    }
+  },
+  
+  {
+    "id": 29,
+    "category": "End of Dragons",
+    "name": "The Echovald Wilds",
+    "active": true,
+    "segments": [
+      { "id": 0, "name": "", "bg": [138,234,244] },
+      { "id": 1, "name": "Gang War", "link": "The Gang War of Echovald", "chatlink": "[&BMwMAAA=]", "bg": [66,200,215] }
+    ],
+    "sequences": {
+      "partial": [{"r":0,"d":30}],
+      "pattern": [{"r":1,"d":35},{"r":0,"d":85}]
+    }
+  },
+  
+  {
+    "id": 30,
+    "category": "End of Dragons",
+    "name": "Dragon's End",
+    "active": true,
+    "segments": [
+      { "id": 1, "name": "Preparations", "chatlink": "[&BKIMAAA=]", "bg": [138,234,244] },
+      { "id": 2, "name": "The Battle for the Jade Sea", "link": "The Battle for the Jade Sea", "chatlink": "[&BKIMAAA=]", "bg": [66,200,215] }
+    ],
+    "sequences": {
+      "partial": [],
+      "pattern": [{"r":1,"d":60},{"r":2,"d":60}]
+    }
   }
+
 ]
