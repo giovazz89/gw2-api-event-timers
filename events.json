@@ -597,7 +597,9 @@
     "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [138,234,244] },
-      { "id": 1, "name": "Aetherblade Assault", "link": "Aetherblade Assault", "chatlink": "[&BGUNAAA=]", "bg": [66,200,215] }
+      { "id": 1, "name": "Aetherblade Assault", "link": "Aetherblade Assault", "chatlink": "[&BGUNAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/1151287819F13DD0ED5CB1E461255CD2CF5D64CA/2604534.png",
+        "rewards": { "achievements": [6366,6468,6321,6409] }
+      }
     ],
     "sequences": {
       "partial": [{"r":0,"d":90}],
@@ -612,7 +614,9 @@
     "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [138,234,244] },
-      { "id": 1, "name": "Kaineng Blackout", "link": "Kaineng Blackout", "chatlink": "[&BBkNAAA=]", "bg": [66,200,215] }
+      { "id": 1, "name": "Kaineng Blackout", "link": "Kaineng Blackout", "chatlink": "[&BBkNAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/963ABAD87B9B2021015FC840ED19A2E70509550E/2604533.png",
+        "rewards": { "achievements": [6188,6132,6385] }
+      }
     ],
     "sequences": {
       "partial": [],
@@ -627,7 +631,9 @@
     "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [138,234,244] },
-      { "id": 1, "name": "Gang War", "link": "The Gang War of Echovald", "chatlink": "[&BMwMAAA=]", "bg": [66,200,215] }
+      { "id": 1, "name": "Gang War", "link": "The Gang War of Echovald", "chatlink": "[&BMwMAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/50F9AD6ABE0646DD07665108F5A9D8F90266B219/2604527.png",
+        "rewards": {"achievements": [6305,6298,6380]}
+      }
     ],
     "sequences": {
       "partial": [{"r":0,"d":30}],
@@ -641,8 +647,12 @@
     "name": "Dragon's End",
     "active": true,
     "segments": [
-      { "id": 1, "name": "Preparations", "chatlink": "[&BKIMAAA=]", "bg": [138,234,244] },
-      { "id": 2, "name": "The Battle for the Jade Sea", "link": "The Battle for the Jade Sea", "chatlink": "[&BKIMAAA=]", "bg": [66,200,215] }
+      { "id": 1, "name": "Preparations", "chatlink": "[&BKIMAAA=]", "bg": [138,234,244], "icon": "https://render.guildwars2.com/file/742201F5EB421D0F9216AA6E9FD095FDA3512798/2604528.png",
+        "rewards": {"achievements": [6148,6131,6082]}
+      },
+      { "id": 2, "name": "The Battle for the Jade Sea", "link": "The Battle for the Jade Sea", "chatlink": "[&BKIMAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/742201F5EB421D0F9216AA6E9FD095FDA3512798/2604528.png",
+        "rewards": {"achievements": [6127,6470,6456,6496,6300,6217,6160,6511]}
+      }
     ],
     "sequences": {
       "partial": [],
