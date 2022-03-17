@@ -651,7 +651,11 @@
         "rewards": {"achievements": [6148,6131,6082]}
       },
       { "id": 2, "name": "The Battle for the Jade Sea", "link": "The Battle for the Jade Sea", "chatlink": "[&BKIMAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/742201F5EB421D0F9216AA6E9FD095FDA3512798/2604528.png", "lfg": 60,
-        "rewards": {"achievements": [6127,6470,6456,6496,6300,6217,6160,6511]}
+        "rewards": {
+          "achievements": [6127,6470,6456,6496,6300,6217,6160,6511,6171,6144,6320],
+          "items_for_achievements": [{"a":6176,"i":97492}],
+          "items": [97896], "random_items": [97424]
+        }
       }
     ],
     "sequences": {
