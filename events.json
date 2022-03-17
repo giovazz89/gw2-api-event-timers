@@ -632,7 +632,7 @@
     "segments": [
       { "id": 0, "name": "", "bg": [138,234,244] },
       { "id": 1, "name": "Gang War", "link": "The Gang War of Echovald", "chatlink": "[&BMwMAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/50F9AD6ABE0646DD07665108F5A9D8F90266B219/2604527.png",
-        "rewards": {"achievements": [6305,6298,6380]}
+        "rewards": {"achievements": [6305,6298,6380], "items": [97894], "random_items": [97424], "items_for_achievements": [{"a":6167,"i":96791}]}
       }
     ],
     "sequences": {
@@ -648,7 +648,7 @@
     "active": true,
     "segments": [
       { "id": 1, "name": "Preparations", "chatlink": "[&BKIMAAA=]", "bg": [138,234,244], "icon": "https://render.guildwars2.com/file/742201F5EB421D0F9216AA6E9FD095FDA3512798/2604528.png",
-        "rewards": {"achievements": [6148,6131,6082]}
+        "rewards": {"achievements": [6148,6131,6082,6217]}
       },
       { "id": 2, "name": "The Battle for the Jade Sea", "link": "The Battle for the Jade Sea", "chatlink": "[&BKIMAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/742201F5EB421D0F9216AA6E9FD095FDA3512798/2604528.png", "lfg": 60,
         "rewards": {
