@@ -598,7 +598,7 @@
     "segments": [
       { "id": 0, "name": "", "bg": [138,234,244] },
       { "id": 1, "name": "Aetherblade Assault", "link": "Aetherblade Assault", "chatlink": "[&BGUNAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/1151287819F13DD0ED5CB1E461255CD2CF5D64CA/2604534.png",
-        "rewards": { "achievements": [6366,6468,6321,6409] }
+        "rewards": { "achievements": [6366,6468,6321,6409,6088,6185], "items": [97895], "random_items": [97424], "items_for_achievements": [{"a":6099,"i":96640}] }
       }
     ],
     "sequences": {
@@ -632,7 +632,7 @@
     "segments": [
       { "id": 0, "name": "", "bg": [138,234,244] },
       { "id": 1, "name": "Gang War", "link": "The Gang War of Echovald", "chatlink": "[&BMwMAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/50F9AD6ABE0646DD07665108F5A9D8F90266B219/2604527.png",
-        "rewards": {"achievements": [6305,6298,6380], "items": [97894], "random_items": [97424], "items_for_achievements": [{"a":6167,"i":96791}]}
+        "rewards": { "achievements": [6305,6298,6380], "items": [97894], "random_items": [97424], "items_for_achievements": [{"a":6167,"i":96791}] }
       }
     ],
     "sequences": {
