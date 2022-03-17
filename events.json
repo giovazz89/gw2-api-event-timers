@@ -615,7 +615,7 @@
     "segments": [
       { "id": 0, "name": "", "bg": [138,234,244] },
       { "id": 1, "name": "Kaineng Blackout", "link": "Kaineng Blackout", "chatlink": "[&BBkNAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/963ABAD87B9B2021015FC840ED19A2E70509550E/2604533.png",
-        "rewards": { "achievements": [6188,6132,6385] }
+        "rewards": { "achievements": [6188,6132,6385], "items": [97901], "random_items": [97424] }
       }
     ],
     "sequences": {
