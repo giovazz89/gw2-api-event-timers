@@ -633,11 +633,12 @@
       { "id": 0, "name": "", "bg": [138,234,244] },
       { "id": 1, "name": "Gang War", "link": "The Gang War of Echovald", "chatlink": "[&BMwMAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/50F9AD6ABE0646DD07665108F5A9D8F90266B219/2604527.png",
         "rewards": { "achievements": [6305,6298,6380], "items": [97894], "random_items": [97424], "items_for_achievements": [{"a":6167,"i":96791}] }
-      }
+      },
+      { "id": 2, "name": "Aspenwood", "link": "Use the siege turtles to destroy the shield generators as you fight through the fort", "chatlink": "[&BPkMAAA=]", "bg": [96, 220, 235], "icon": "https://render.guildwars2.com/file/50F9AD6ABE0646DD07665108F5A9D8F90266B219/2604527.png" }
     ],
     "sequences": {
-      "partial": [{"r":0,"d":30}],
-      "pattern": [{"r":1,"d":35},{"r":0,"d":85}]
+      "partial": [],
+      "pattern": [{"r":0,"d":30},{"r":1,"d":35},{"r":0,"d":35},{"r":2,"d":20}]
     }
   },
   
