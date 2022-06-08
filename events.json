@@ -534,7 +534,7 @@
     "id": 24,
     "category": "Special Events",
     "name": "Dragon Bash",
-    "active": false,
+    "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [138,234,244] },
       { "id": 1, "name": "Wayfarer Foothills", "link": "Dragon Bash Hologram Stampede!", "chatlink": "[&BH0BAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/FF9DF23C6DE40E3F09EC1AE06169379048DA3C94/602783.png", "v1_event_id": "1EB55B9C-C278-4B7B-AD5C-FC3770F20564",
