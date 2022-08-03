@@ -510,8 +510,8 @@
   {
     "id": 23,
     "category": "Special Events",
-    "name": "Labyrinthine Cliffs",
-    "active": false,
+    "name": "Festival of the Four Winds",
+    "active": true,
     "segments": [
       { "id": 0, "name": "", "bg": [138,234,244] },
       { "id": 1, "name": "Treasure Hunt", "link": "Participate in the treasure hunt!", "chatlink": "[&BBwHAAA=]", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/C40E7AC932F5FEEAF203E603C8DE300CCC9A1207/602785.png", "v1_event_id": "CB8544C1-6530-454D-B1C6-6599C08F96EF",
