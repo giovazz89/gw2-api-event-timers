@@ -721,6 +721,117 @@
       "partial": [],
       "pattern": [{"r":1,"d":5},{"r":2,"d":8},{"r":1,"d":32},{"r":2,"d":8},{"r":1,"d":7},{"r":3,"d":60}]
     }
+  },
+
+  {
+    "id": 33,
+    "active": true,
+    "category": "Secrets of the Obscure",
+    "name": "Skywatch Archipelago",
+    "segments": {
+        "0": { "name": "", "bg": [250, 206, 133] },
+        "1": {
+            "name": "Unlocking the Wizard's Tower",
+            "link": "Unlocking the Wizard's Tower",
+            "chatlink": "[&BL4NAAA=]",
+            "bg": [226, 171, 73],
+            "rewards": {
+                "items": [],
+                "random_items": [],
+                "coins": 0,
+                "achievements": [],
+                "items_for_achievements": []
+            }
+        }
+    },
+    "sequences": {
+        "partial": [{"r": 0, "d": 60}],
+        "pattern": [{"r": 1, "d": 25}, {"r": 0, "d": 95}]
+    }
+  },
+
+  {
+    "id": 34,
+    "active": true,
+    "category": "Secrets of the Obscure",
+    "name": "Wizard's Tower",
+    "segments": [
+        { "id": 0, "name": "", "bg": [250, 206, 133] },
+        {
+            "id": 1,
+            "name": "Target Practice",
+            "link": "Skyscale Target Practice in the Wizard's Tower",
+            "chatlink": "[&BB8OAAA=]",
+            "bg": [226, 171, 73],
+            "rewards": {
+                "items": [],
+                "random_items": [],
+                "coins": 0,
+                "achievements": [],
+                "items_for_achievements": []
+            }
+        },
+        {
+            "id": 2,
+            "name": "Fly by Night",
+            "link": "Wizard's Tower: Fly by Night",
+            "chatlink": "[&BB8OAAA=]",
+            "bg": [226, 171, 73],
+            "rewards": {
+                "items": [],
+                "random_items": [],
+                "coins": 0,
+                "achievements": [],
+                "items_for_achievements": []
+            }
+        },
+        {
+            "id": 3,
+            "name": "Target Practice & Fly by Night",
+            "link": "Skyscale Target Practice in the Wizard's Tower",
+            "chatlink": "[&BB8OAAA=]",
+            "bg": [200, 136, 54],
+            "rewards": {
+                "items": [],
+                "random_items": [],
+                "coins": 0,
+                "achievements": [],
+                "items_for_achievements": []
+            }
+        }
+    ],
+    "sequences": {
+        "partial": [{"r":2,"d":20},{"r":0,"d":40}],
+        "pattern": [{"r":1,"d":40},{"r":3,"d":15},{"r": 2,"d": 25},{"r": 0,"d": 40}]
+    }
+  },
+
+  {
+    "id": 35,
+    "active": true,
+    "category": "Secrets of the Obscure",
+    "name": "Amnytas",
+    "segments": [
+        { "id": 0, "name": "", "bg": [250, 206, 133] },
+        {
+            "id": 1,
+            "name": "Defense of Amnytas",
+            "link": "The Defense of Amnytas",
+            "chatlink": "[&BDQOAAA=]",
+            "bg": [226, 171, 73],
+            "rewards": {
+                "items": [],
+                "random_items": [],
+                "coins": 0,
+                "achievements": [],
+                "items_for_achievements": []
+            }
+        }
+    ],
+    "sequences": {
+        "partial": [],
+        "pattern": [{"r": 1,"d":25},{"r":0,"d":95}]
+    }
   }
 
 ]
