@@ -151,6 +151,7 @@
     "category": "Living World Season 1",
     "name": "Eye of the North",
     "link": "Eye of the North",
+    "active": true,
     "segments": [
         { "id": 0, "name": "", "bg": [251, 132, 152] },
         { "id": 1, "name": "Twisted Marionette (Public)", "link": "The Twisted Marionette", "chatlink": "[&BAkMAAA=]", "bg": [234, 98, 121], "icon": "https://render.guildwars2.com/file/0D5CD907A06D0AD70750505CC49AB149DABAEFE7/710687.png",
