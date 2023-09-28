@@ -183,6 +183,24 @@
 
   {
     "id": 6,
+    "category": "Living World Season 1",
+    "name": "Scarlet's Invasion",
+    "link": "Defeat the invading minions of Scarlet Briar",
+    "active": true,
+    "segments": [
+        { "id": 0, "name": "", "bg": [251, 132, 152] },
+        { "id": 1, "name": "Defeat Scarlet's minions", "link": "Defeat the invading minions of Scarlet Briar", "chatlink": "[&BOQAAAA=]", "bg": [234, 98, 121], "icon": "https://render.guildwars2.com/file/ED6940F77A75C0B7611521AB0C210DE7B611C536/625487.png",
+            "rewards": { "achievements": [833,834,832,836,830,827,828,837,829,835] }
+        }
+    ],
+    "sequences": {
+        "partial": [{"r":0,"d":60},{"r":1,"d":15}],
+        "pattern": [{"r":0,"d":105},{"r":1,"d":15}]
+    }
+  },
+
+  {
+    "id": 7,
     "category": "Living World Season 2",
     "name": "Dry Top",
     "active": true,
@@ -197,7 +215,7 @@
   },
 
   {
-    "id": 7,
+    "id": 8,
     "category": "Heart of Thorns",
     "name": "Verdant Brink",
     "active": true,
@@ -219,7 +237,7 @@
   },
 
   {
-    "id": 8,
+    "id": 9,
     "category": "Heart of Thorns",
     "name": "Auric Basin",
     "active": true,
@@ -242,7 +260,7 @@
   },
 
   {
-    "id": 9,
+    "id": 10,
     "category": "Heart of Thorns",
     "name": "Tangled Depths",
     "active": true,
@@ -260,7 +278,7 @@
   },
 
   {
-    "id": 10,
+    "id": 11,
     "category": "Heart of Thorns",
     "name": "Dragon's Stand",
     "active": true,
@@ -280,7 +298,7 @@
   },
 
   {
-    "id": 11,
+    "id": 12,
     "category": "Living World Season 3",
     "name": "Lake Doric",
     "active": true,
@@ -296,7 +314,7 @@
   },
 
   {
-    "id": 12,
+    "id": 13,
     "category": "Living World Season 3",
     "name": "Ley-Line Anomaly",
     "active": true,
@@ -320,7 +338,7 @@
   },
 
   {
-    "id": 13,
+    "id": 14,
     "category": "Path of Fire",
     "name": "Crystal Oasis",
     "active": true,
@@ -338,7 +356,7 @@
   },
 
   {
-    "id": 14,
+    "id": 15,
     "category": "Path of Fire",
     "name": "Desert Highlands",
     "active": true,
@@ -355,7 +373,7 @@
   },
 
   {
-    "id": 15,
+    "id": 16,
     "category": "Path of Fire",
     "name": "Elon Riverlands",
     "active": true,
@@ -375,7 +393,7 @@
   },
 
   {
-    "id": 16,
+    "id": 17,
     "category": "Path of Fire",
     "name": "The Desolation",
     "active": true,
@@ -395,7 +413,7 @@
   },
 
   {
-    "id": 17,
+    "id": 18,
     "category": "Path of Fire",
     "name": "Domain of Vabbi",
     "active": true,
@@ -415,7 +433,7 @@
   },
 
   {
-    "id": 18,
+    "id": 19,
     "category": "Living World Season 4",
     "name": "Domain of Istan",
     "active": true,
@@ -432,7 +450,7 @@
   },
 
   {
-    "id": 19,
+    "id": 20,
     "category": "Living World Season 4",
     "name": "Jahai Bluffs",
     "active": true,
@@ -450,7 +468,7 @@
   },
 
   {
-    "id": 20,
+    "id": 21,
     "category": "Living World Season 4",
     "name": "Thunderhead Peaks",
     "active": true,
@@ -470,7 +488,7 @@
   },
 
   {
-    "id": 21,
+    "id": 22,
     "category": "The Icebrood Saga",
     "name": "Grothmar Valley",
     "active": true,
@@ -496,7 +514,7 @@
   },
 
   {
-    "id": 22,
+    "id": 23,
     "category": "The Icebrood Saga",
     "name": "Bjora Marches",
     "active": true,
@@ -520,7 +538,7 @@
   },
 
   {
-    "id": 23,
+    "id": 24,
     "category": "The Icebrood Saga",
     "name": "Dragonstorm",
     "active": true,
@@ -543,7 +561,7 @@
   },
   
   {
-    "id": 24,
+    "id": 25,
     "category": "Special Events",
     "name": "Festival of the Four Winds",
     "active": false,
@@ -566,7 +584,7 @@
   },
   
   {
-    "id": 25,
+    "id": 26,
     "category": "Special Events",
     "name": "Dragon Bash",
     "active": false,
@@ -592,7 +610,7 @@
   },
   
   {
-    "id": 26,
+    "id": 27,
     "category": "Special Events",
     "name": "Halloween",
     "active": false,
@@ -609,7 +627,7 @@
   },
   
   {
-    "id": 27,
+    "id": 28,
     "category": "End of Dragons",
     "name": "Cantha: Day and night",
     "active": true,
@@ -626,7 +644,7 @@
   },
   
   {
-    "id": 28,
+    "id": 29,
     "category": "End of Dragons",
     "name": "Seitung Province",
     "active": true,
@@ -643,7 +661,7 @@
   },
   
   {
-    "id": 29,
+    "id": 30,
     "category": "End of Dragons",
     "name": "New Kaineng City",
     "active": true,
@@ -660,7 +678,7 @@
   },
   
   {
-    "id": 30,
+    "id": 31,
     "category": "End of Dragons",
     "name": "The Echovald Wilds",
     "active": true,
@@ -680,7 +698,7 @@
   },
   
   {
-    "id": 31,
+    "id": 32,
     "category": "End of Dragons",
     "name": "Dragon's End",
     "active": true,
