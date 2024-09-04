@@ -798,6 +798,26 @@
         "partial": [{"r": 0,"d":90}],
         "pattern": [{"r": 1,"d":10},{"r":0,"d":170}]
     }
+  },
+
+  {
+    "id": 37,
+    "active": true,
+    "category": "Janthir Wilds",
+    "name": "Janthir Syntri",
+    "segments": [
+        { "id": 0, "name": "", "bg": [196, 212, 255] },
+        { "id": 1, "name": "Of Mists and Monsters", "link": "Of Mists and Monsters", "chatlink": "[&BCoPAAA=]", "bg": [146, 170, 235], "icon": "https://render.guildwars2.com/file/A629624F2D3E3679B3E5040D4C67EBCE59C13770/3378968.png",
+            "rewards": { 
+              "items": [102265,102468,102283], "random_items": [103460],
+              "achievements": [8337]
+            }
+        }
+    ],
+    "sequences": {
+        "partial": [{"r": 0,"d":30}],
+        "pattern": [{"r": 1,"d":25},{"r":0,"d":95}]
+    }
   }
 
 ]
