@@ -807,7 +807,7 @@
     "name": "Janthir Syntri",
     "segments": [
         { "id": 0, "name": "", "bg": [196, 212, 255] },
-        { "id": 1, "name": "Of Mists and Monsters", "link": "Of Mists and Monsters", "chatlink": "[&BCoPAAA=]", "bg": [146, 170, 235], "icon": "https://render.guildwars2.com/file/A629624F2D3E3679B3E5040D4C67EBCE59C13770/3378968.png", "lfg": 10,
+        { "id": 1, "name": "Of Mists and Monsters", "link": "Of Mists and Monsters", "chatlink": "[&BCoPAAA=]", "bg": [146, 170, 235], "icon": "https://render.guildwars2.com/file/A629624F2D3E3679B3E5040D4C67EBCE59C13770/3378968.png", "lfg": 5,
             "rewards": { 
               "items": [102265,102468,102283], "random_items": [103460],
               "achievements": [8337]
@@ -817,6 +817,29 @@
     "sequences": {
         "partial": [{"r": 0,"d":40}],
         "pattern": [{"r": 1,"d":15},{"r":0,"d":105}]
+    }
+  },
+
+  {
+    "id": 33,
+    "active": true,
+    "category": "Janthir Wilds",
+    "name": "Mount Balrior",
+    "segments": [
+        { "id": 0, "name": "", "bg": [196, 212, 255] },
+        { "id": 1, "name": "Convergence: Mount Balrior", "link": "Convergence: Mount Balrior", "chatlink": "[&BK4OAAA=]", "bg": [146, 170, 235], "icon": "https://render.guildwars2.com/file/3AFE35CB31A40540DF799D589611053506601DDA/3443173.png", "lfg": 2,
+            "rewards": { 
+              "items": [103842], "random_items": [83410], "coins": 20000,
+              "achievements": [8445,8456,8458,8463,8473,8489],
+              "items_for_achievements": [
+                {"a":7180,"i":103909}
+              ]
+            }
+        }
+    ],
+    "sequences": {
+        "partial": [],
+        "pattern": [{"r": 1,"d":10},{"r":0,"d":170}]
     }
   }
 
