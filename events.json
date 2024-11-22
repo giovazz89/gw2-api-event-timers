@@ -130,19 +130,80 @@
   {
     "id": 4,
     "category": "Core Tyria",
-    "name": "PvP Tournaments",
+    "name": "EU PvP Tournaments",
     "active": true,
     "link": "Automated Tournaments",
     "segments": [
       { "id": 0, "name": "", "bg": [138,234,244] },
-      { "id": 1, "name": "Automated Tournament: Balthazar's Brawl", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 2, "name": "Automated Tournament: Grenth's Game", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 3, "name": "Automated Tournament: Melandru's Matchup", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 4, "name": "Automated Tournament: Lyssa's Legions", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" }
+      { "id": 1, "name": "Daily Tournament: Balthazar's Brawl", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 2, "name": "Daily Tournament: Grenth's Game", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 3, "name": "Daily Tournament: Melandru's Matchup", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 4, "name": "Daily Tournament: Lyssa's Legions", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 5, "name": "Weekly Tournament: Dwayna's Dispute", "link": "Automated Tournaments#Weekly_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 6, "name": "Monthly Tournament: Kormir's Clash", "link": "Automated Tournaments#Monthly_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 7, "name": "Monthly Variety Event: 2v2 Team Deathmatch", "link": "Automated Tournaments#Monthly_variety_tournament", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 8, "name": "Monthly Variety Event: 3v3 Team Deathmatch", "link": "Automated Tournaments#Monthly_variety_tournament", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 9, "name": "Tournament of Legends", "link": "Automated Tournaments#Special_event_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" }
     ],
     "sequences": {
-      "partial": [],
-      "pattern": [{"r":1,"d":60},{"r":0,"d":120},{"r":2,"d":60},{"r":0,"d":120},{"r":3,"d":60},{"r":0,"d":120},{"r":4,"d":60},{"r":0,"d":120}]
+      "partial": [{"r":0,"d":720},{"r":1,"d":60},{"r":0,"d":120},{"r":2,"d":60},{"r":0,"d":120},{"r":3,"d":60},{"r":0,"d":120},{"r":4,"d":60},{"r":0,"d":120}],
+      "pattern": [],
+      "weekly_partial": [{"r":0,"d":9660},{"r":5,"d":60}],
+      "monthly_partial": [{"r":0,"d":"saturday"},{"r":0,"d":31380},{"r":6,"d":60}],
+      "yearly_partial": [
+        {"r":0,"d":"Gen"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
+        {"r":0,"d":"Feb"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
+        {"r":0,"d":"Mar"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},{"r":0,"d":10080},{"r":9,"d":60},
+        {"r":0,"d":"Apr"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
+        {"r":0,"d":"May"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
+        {"r":0,"d":"June"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
+        {"r":0,"d":"July"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
+        {"r":0,"d":"Aug"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
+        {"r":0,"d":"Sept"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},{"r":0,"d":10080},{"r":9,"d":60},
+        {"r":0,"d":"Oct"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
+        {"r":0,"d":"Nov"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
+        {"r":0,"d":"Dec"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60}
+      ]
+    }
+  },
+
+  {
+    "id": 5,
+    "category": "Core Tyria",
+    "name": "NA PvP Tournaments",
+    "active": true,
+    "link": "Automated Tournaments",
+    "segments": [
+      { "id": 0, "name": "", "bg": [138,234,244] },
+      { "id": 1, "name": "Daily Tournament: Balthazar's Brawl", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 2, "name": "Daily Tournament: Grenth's Game", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 3, "name": "Daily Tournament: Melandru's Matchup", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 4, "name": "Daily Tournament: Lyssa's Legions", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 5, "name": "Weekly Tournament: Dwayna's Dispute", "link": "Automated Tournaments#Weekly_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 6, "name": "Monthly Tournament: Kormir's Clash", "link": "Automated Tournaments#Monthly_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 7, "name": "Monthly Variety Event: 2v2 Team Deathmatch", "link": "Automated Tournaments#Monthly_variety_tournament", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 8, "name": "Monthly Variety Event: 3v3 Team Deathmatch", "link": "Automated Tournaments#Monthly_variety_tournament", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 9, "name": "Tournament of Legends", "link": "Automated Tournaments#Special_event_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" }
+    ],
+    "sequences": {
+      "partial": [{"r":2,"d":60},{"r":0,"d":120},{"r":3,"d":60},{"r":0,"d":300},{"r":4,"d":60},{"r":0,"d":660},{"r":1,"d":60},{"r":0,"d":120}],
+      "pattern": [],
+      "weekly_partial": [{"r":0,"d":9840},{"r":5,"d":60}],
+      "monthly_partial": [{"r":0,"d":"saturday"},{"r":0,"d":31380},{"r":6,"d":60}],
+      "yearly_partial": [
+        {"r":0,"d":"Gen"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
+        {"r":0,"d":"Feb"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
+        {"r":0,"d":"Mar"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},{"r":0,"d":10080},{"r":9,"d":60},
+        {"r":0,"d":"Apr"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
+        {"r":0,"d":"May"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
+        {"r":0,"d":"June"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
+        {"r":0,"d":"July"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
+        {"r":0,"d":"Aug"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
+        {"r":0,"d":"Sept"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},{"r":0,"d":10080},{"r":9,"d":60},
+        {"r":0,"d":"Oct"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
+        {"r":0,"d":"Nov"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
+        {"r":0,"d":"Dec"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60}
+      ]
     }
   },
 
@@ -821,7 +882,7 @@
   },
 
   {
-    "id": 33,
+    "id": 38,
     "active": true,
     "category": "Janthir Wilds",
     "name": "Mount Balrior",
