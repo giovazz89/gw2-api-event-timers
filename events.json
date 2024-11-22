@@ -141,7 +141,7 @@
       { "id": 4, "name": "Daily EU Tournament: Lyssa's Legions", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" }
     ],
     "sequences": {
-      "partial": [{"r":0,"d":720},{"r":1,"d":60},{"r":0,"d":120},{"r":2,"d":60},{"r":0,"d":120},{"r":3,"d":60},{"r":0,"d":120},{"r":4,"d":60}],
+      "partial": [],
       "pattern": []
     }
   },
@@ -160,7 +160,7 @@
       { "id": 4, "name": "Daily NA Tournament: Lyssa's Legions", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" }
     ],
     "sequences": {
-      "partial": [{"r":2,"d":60},{"r":0,"d":120},{"r":3,"d":60},{"r":0,"d":300},{"r":4,"d":60},{"r":0,"d":660},{"r":1,"d":60}],
+      "partial": [],
       "pattern": []
     }
   },
