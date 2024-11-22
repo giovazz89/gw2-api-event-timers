@@ -130,43 +130,24 @@
   {
     "id": 4,
     "category": "Core Tyria",
-    "name": "EU PvP Tournaments",
+    "name": "PvP Tournaments",
     "active": true,
     "link": "Automated Tournaments",
     "segments": [
       { "id": 0, "name": "", "bg": [138,234,244] },
-      { "id": 1, "name": "Daily EU Tournament: Balthazar's Brawl", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 2, "name": "Daily EU Tournament: Grenth's Game", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 3, "name": "Daily EU Tournament: Melandru's Matchup", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 4, "name": "Daily EU Tournament: Lyssa's Legions", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" }
+      { "id": 1, "name": "Automated Tournament: Balthazar's Brawl", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 2, "name": "Automated Tournament: Grenth's Game", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 3, "name": "Automated Tournament: Melandru's Matchup", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
+      { "id": 4, "name": "Automated Tournament: Lyssa's Legions", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" }
     ],
     "sequences": {
       "partial": [],
-      "pattern": []
+      "pattern": [{"r":1,"d":60},{"r":0,"d":120},{"r":2,"d":60},{"r":0,"d":120},{"r":3,"d":60},{"r":0,"d":120},{"r":4,"d":60},{"r":0,"d":120}]
     }
   },
 
   {
     "id": 5,
-    "category": "Core Tyria",
-    "name": "NA PvP Tournaments",
-    "active": true,
-    "link": "Automated Tournaments",
-    "segments": [
-      { "id": 0, "name": "", "bg": [138,234,244] },
-      { "id": 1, "name": "Daily NA Tournament: Balthazar's Brawl", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 2, "name": "Daily NA Tournament: Grenth's Game", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 3, "name": "Daily NA Tournament: Melandru's Matchup", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 4, "name": "Daily NA Tournament: Lyssa's Legions", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" }
-    ],
-    "sequences": {
-      "partial": [],
-      "pattern": []
-    }
-  },
-
-  {
-    "id": 6,
     "category": "Living World Season 1",
     "name": "Eye of the North",
     "link": "Eye of the North",
@@ -201,7 +182,7 @@
   },
 
   {
-    "id": 7,
+    "id": 6,
     "category": "Living World Season 1",
     "name": "Scarlet's Invasion",
     "link": "Defeat the invading minions of Scarlet Briar",
@@ -219,7 +200,7 @@
   },
 
   {
-    "id": 8,
+    "id": 7,
     "category": "Living World Season 2",
     "name": "Dry Top",
     "active": true,
@@ -234,7 +215,7 @@
   },
 
   {
-    "id": 9,
+    "id": 8,
     "category": "Heart of Thorns",
     "name": "Verdant Brink",
     "active": true,
@@ -256,7 +237,7 @@
   },
 
   {
-    "id": 10,
+    "id": 9,
     "category": "Heart of Thorns",
     "name": "Auric Basin",
     "active": true,
@@ -279,7 +260,7 @@
   },
 
   {
-    "id": 11,
+    "id": 10,
     "category": "Heart of Thorns",
     "name": "Tangled Depths",
     "active": true,
@@ -297,7 +278,7 @@
   },
 
   {
-    "id": 12,
+    "id": 11,
     "category": "Heart of Thorns",
     "name": "Dragon's Stand",
     "active": true,
@@ -317,7 +298,7 @@
   },
 
   {
-    "id": 13,
+    "id": 12,
     "category": "Living World Season 3",
     "name": "Lake Doric",
     "active": true,
@@ -333,7 +314,7 @@
   },
 
   {
-    "id": 14,
+    "id": 13,
     "category": "Core Tyria",
     "name": "Ley-Line Anomaly",
     "active": true,
@@ -357,7 +338,7 @@
   },
 
   {
-    "id": 15,
+    "id": 14,
     "category": "Path of Fire",
     "name": "Crystal Oasis",
     "active": true,
@@ -375,7 +356,7 @@
   },
 
   {
-    "id": 16,
+    "id": 15,
     "category": "Path of Fire",
     "name": "Desert Highlands",
     "active": true,
@@ -392,7 +373,7 @@
   },
 
   {
-    "id": 17,
+    "id": 16,
     "category": "Path of Fire",
     "name": "Elon Riverlands",
     "active": true,
@@ -412,7 +393,7 @@
   },
 
   {
-    "id": 18,
+    "id": 17,
     "category": "Path of Fire",
     "name": "The Desolation",
     "active": true,
@@ -432,7 +413,7 @@
   },
 
   {
-    "id": 19,
+    "id": 18,
     "category": "Path of Fire",
     "name": "Domain of Vabbi",
     "active": true,
@@ -452,7 +433,7 @@
   },
 
   {
-    "id": 20,
+    "id": 19,
     "category": "Living World Season 4",
     "name": "Domain of Istan",
     "active": true,
@@ -469,7 +450,7 @@
   },
 
   {
-    "id": 21,
+    "id": 20,
     "category": "Living World Season 4",
     "name": "Jahai Bluffs",
     "active": true,
@@ -487,7 +468,7 @@
   },
 
   {
-    "id": 22,
+    "id": 21,
     "category": "Living World Season 4",
     "name": "Thunderhead Peaks",
     "active": true,
@@ -507,7 +488,7 @@
   },
 
   {
-    "id": 23,
+    "id": 22,
     "category": "The Icebrood Saga",
     "name": "Grothmar Valley",
     "active": true,
@@ -533,7 +514,7 @@
   },
 
   {
-    "id": 24,
+    "id": 23,
     "category": "The Icebrood Saga",
     "name": "Bjora Marches",
     "active": true,
@@ -557,7 +538,7 @@
   },
 
   {
-    "id": 25,
+    "id": 24,
     "category": "The Icebrood Saga",
     "name": "Dragonstorm",
     "active": true,
@@ -580,7 +561,7 @@
   },
   
   {
-    "id": 26,
+    "id": 25,
     "category": "Special Events",
     "name": "Festival of the Four Winds",
     "active": false,
@@ -603,7 +584,7 @@
   },
   
   {
-    "id": 27,
+    "id": 26,
     "category": "Special Events",
     "name": "Dragon Bash",
     "active": false,
@@ -629,7 +610,7 @@
   },
   
   {
-    "id": 28,
+    "id": 27,
     "category": "Special Events",
     "name": "Halloween",
     "active": false,
@@ -646,7 +627,7 @@
   },
   
   {
-    "id": 29,
+    "id": 28,
     "category": "End of Dragons",
     "name": "Cantha: Day and night",
     "active": true,
@@ -663,7 +644,7 @@
   },
   
   {
-    "id": 30,
+    "id": 29,
     "category": "End of Dragons",
     "name": "Seitung Province",
     "active": true,
@@ -680,7 +661,7 @@
   },
   
   {
-    "id": 31,
+    "id": 30,
     "category": "End of Dragons",
     "name": "New Kaineng City",
     "active": true,
@@ -697,7 +678,7 @@
   },
   
   {
-    "id": 32,
+    "id": 31,
     "category": "End of Dragons",
     "name": "The Echovald Wilds",
     "active": true,
@@ -717,7 +698,7 @@
   },
   
   {
-    "id": 33,
+    "id": 32,
     "category": "End of Dragons",
     "name": "Dragon's End",
     "active": true,
@@ -743,7 +724,7 @@
   },
 
   {
-    "id": 34,
+    "id": 33,
     "active": true,
     "category": "Secrets of the Obscure",
     "name": "Skywatch Archipelago",
@@ -760,7 +741,7 @@
   },
 
   {
-    "id": 35,
+    "id": 34,
     "active": true,
     "category": "Secrets of the Obscure",
     "name": "Wizard's Tower",
@@ -777,7 +758,7 @@
   },
 
   {
-    "id": 36,
+    "id": 35,
     "active": true,
     "category": "Secrets of the Obscure",
     "name": "Amnytas",
@@ -794,7 +775,7 @@
   },
 
   {
-    "id": 37,
+    "id": 36,
     "active": true,
     "category": "Secrets of the Obscure",
     "name": "Convergences",
@@ -820,7 +801,7 @@
   },
 
   {
-    "id": 38,
+    "id": 37,
     "active": true,
     "category": "Janthir Wilds",
     "name": "Janthir Syntri",
@@ -840,7 +821,7 @@
   },
 
   {
-    "id": 39,
+    "id": 33,
     "active": true,
     "category": "Janthir Wilds",
     "name": "Mount Balrior",
