@@ -138,32 +138,11 @@
       { "id": 1, "name": "Daily EU Tournament: Balthazar's Brawl", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
       { "id": 2, "name": "Daily EU Tournament: Grenth's Game", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
       { "id": 3, "name": "Daily EU Tournament: Melandru's Matchup", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 4, "name": "Daily EU Tournament: Lyssa's Legions", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 5, "name": "Weekly EU Tournament: Dwayna's Dispute", "link": "Automated Tournaments#Weekly_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 6, "name": "Monthly EU Tournament: Kormir's Clash", "link": "Automated Tournaments#Monthly_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 7, "name": "Monthly EU Variety Event: 2v2 Team Deathmatch", "link": "Automated Tournaments#Monthly_variety_tournament", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 8, "name": "Monthly EU Variety Event: 3v3 Team Deathmatch", "link": "Automated Tournaments#Monthly_variety_tournament", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 9, "name": "EU Tournament of Legends", "link": "Automated Tournaments#Special_event_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" }
+      { "id": 4, "name": "Daily EU Tournament: Lyssa's Legions", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" }
     ],
     "sequences": {
       "partial": [{"r":0,"d":720},{"r":1,"d":60},{"r":0,"d":120},{"r":2,"d":60},{"r":0,"d":120},{"r":3,"d":60},{"r":0,"d":120},{"r":4,"d":60},{"r":0,"d":120}],
-      "pattern": [],
-      "weekly_partial": [{"r":0,"d":9660},{"r":5,"d":60}],
-      "monthly_partial": [{"r":0,"d":"saturday"},{"r":0,"d":31380},{"r":6,"d":60}],
-      "yearly_partial": [
-        {"r":0,"d":"Gen"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
-        {"r":0,"d":"Feb"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
-        {"r":0,"d":"Mar"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},{"r":0,"d":10080},{"r":9,"d":60},
-        {"r":0,"d":"Apr"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
-        {"r":0,"d":"May"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
-        {"r":0,"d":"June"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
-        {"r":0,"d":"July"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
-        {"r":0,"d":"Aug"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
-        {"r":0,"d":"Sept"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},{"r":0,"d":10080},{"r":9,"d":60},
-        {"r":0,"d":"Oct"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
-        {"r":0,"d":"Nov"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
-        {"r":0,"d":"Dec"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60}
-      ]
+      "pattern": []
     }
   },
 
@@ -178,32 +157,11 @@
       { "id": 1, "name": "Daily NA Tournament: Balthazar's Brawl", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
       { "id": 2, "name": "Daily NA Tournament: Grenth's Game", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
       { "id": 3, "name": "Daily NA Tournament: Melandru's Matchup", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 4, "name": "Daily NA Tournament: Lyssa's Legions", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 5, "name": "Weekly NA Tournament: Dwayna's Dispute", "link": "Automated Tournaments#Weekly_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 6, "name": "Monthly NA Tournament: Kormir's Clash", "link": "Automated Tournaments#Monthly_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 7, "name": "Monthly NA Variety Event: 2v2 Team Deathmatch", "link": "Automated Tournaments#Monthly_variety_tournament", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 8, "name": "Monthly NA Variety Event: 3v3 Team Deathmatch", "link": "Automated Tournaments#Monthly_variety_tournament", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" },
-      { "id": 9, "name": "NA Tournament of Legends", "link": "Automated Tournaments#Special_event_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" }
+      { "id": 4, "name": "Daily NA Tournament: Lyssa's Legions", "link": "Automated Tournaments#Daily_tournaments", "bg": [66,200,215], "icon": "https://render.guildwars2.com/file/7F4E2835316DE912B1493CCF500A9D5CF4A83B4A/42676.png" }
     ],
     "sequences": {
       "partial": [{"r":2,"d":60},{"r":0,"d":120},{"r":3,"d":60},{"r":0,"d":300},{"r":4,"d":60},{"r":0,"d":660},{"r":1,"d":60},{"r":0,"d":120}],
-      "pattern": [],
-      "weekly_partial": [{"r":0,"d":9840},{"r":5,"d":60}],
-      "monthly_partial": [{"r":0,"d":"saturday"},{"r":0,"d":31380},{"r":6,"d":60}],
-      "yearly_partial": [
-        {"r":0,"d":"Gen"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
-        {"r":0,"d":"Feb"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
-        {"r":0,"d":"Mar"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},{"r":0,"d":10080},{"r":9,"d":60},
-        {"r":0,"d":"Apr"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
-        {"r":0,"d":"May"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
-        {"r":0,"d":"June"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
-        {"r":0,"d":"July"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
-        {"r":0,"d":"Aug"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
-        {"r":0,"d":"Sept"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},{"r":0,"d":10080},{"r":9,"d":60},
-        {"r":0,"d":"Oct"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60},
-        {"r":0,"d":"Nov"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":7,"d":60},
-        {"r":0,"d":"Dec"},{"r":0,"d":"saturday"},{"r":0,"d":10080},{"r":8,"d":60}
-      ]
+      "pattern": []
     }
   },
 
