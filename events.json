@@ -924,7 +924,7 @@
     "name": "Eternity's Garden",
     "segments": [
         { "id": 0, "name": "", "bg": [250, 160, 125] },
-        { "id": 1, "name": "hackles of the Ancients", "link": "hackles of the Ancients", "chatlink": "[&BPwPAAA=]", "bg": [242, 126, 84], "icon": "https://render.guildwars2.com/file/642001EEBE27077E9A0D513B3A12063B562A252A/3772537.png",
+        { "id": 1, "name": "Shackles of the Ancients", "link": "Shackles of the Ancients", "chatlink": "[&BPwPAAA=]", "bg": [242, 126, 84], "icon": "https://render.guildwars2.com/file/642001EEBE27077E9A0D513B3A12063B562A252A/3772537.png",
             "rewards": { 
               "items": [105822], "random_items": [109246,109239,109115,109251],
               "achievements": [9253,9296,9252,9289,9270],
